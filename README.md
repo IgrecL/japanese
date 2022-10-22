@@ -70,7 +70,7 @@ I recommend having an English translation of the book you're reading, alongside 
 
 * [Z-Lib](https://z-lib.org/) : biggest online library (not only Japanese)
 * [Itazuraneko Books](https://itazuraneko.neocities.org/library/shousetu.html) : all kinds of Japanese books
-* [Imperial Library(http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/) : if Z-Lib is down
+* [Imperial Library](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/) : if Z-Lib is down
 
 ### TV
 
