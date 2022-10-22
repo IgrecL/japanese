@@ -1,6 +1,7 @@
 # Japanese Learning Resources
 The best free resources that I personally use (or used) for learning Japanese. 
 
+
 ## Tools
 
 ### Learning
@@ -22,6 +23,14 @@ The best free resources that I personally use (or used) for learning Japanese.
 
 * [Mpvacious](https://github.com/Ajatt-Tools/mpvacious) : mpv extension to use Yomichan on video subtitles, with Anki integration
 * [Jidoujisho](https://github.com/lrorpilla/jidoujisho) : can also be used to watch videos with translatable subtitles and Anki integration
+
+### Dictionaries
+
+* [Jisho](https://jisho.org/) : rich Japanese-English dictionary
+* [Wiktionary](https://en.wiktionary.org/) : very detailed information for kanji lookup
+* [JapandDict](https://www.japandict.com/) : dictionary and details on kanji
+* [日仏辞典](https://www.dictionnaire-japonais.com/) : Japanese-French dictionary
+
 
 ## Reading & listening material
 
@@ -74,6 +83,7 @@ I recommend having an English translation of the book you're reading, alongside 
 
 * [jpdb.io](https://jpdb.io/) : gives an estimation of the level needed to read/watch given works
 * [Kanji Frequency](https://scriptin.github.io/kanji-frequency/) : kanji usage frequency
+* [Aozora Bunko stats](https://core6000.neocities.org/aozora/) : number of kanji needed to read Aozora Bunko novels
 
 
 ### Other useful guides
