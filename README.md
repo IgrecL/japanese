@@ -1,10 +1,27 @@
 # Japanese Learning Resources
 The best free resources that I personally use (or used) for learning Japanese. 
 
-
 ## Tools
 
+### Learning
 
+* [Anki](https://ankiweb.net/shared/decks/) : spaced repetition flashcards app for learning vocab
+* [WaniKani](https://ankiweb.net/shared/info/1609000301) : great at first for learning kanji and words, but not very good when you reach intermediate level
+
+### Reading
+
+* [Yomichan](https://addons.mozilla.org/en-US/firefox/addon/yomichan/) : web browser extension to translate unknown words in web pages
+  * it can be linked to Anki with AnkiConnect to generate flashcards of the words you can't read
+  * can be used to reaed books since .epub ebooks contain .html files
+  * the dictionaries I use can be found in the "Dictionaries" folder (other dictionaries can be found [here](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH))
+* [Hibiscus](http://read.hibiscus.moe/) : .epub online reader implementing vertical reading like in real Japanese books
+* [Mokuro](https://github.com/kha-white/mokuro) : an very efficient OCR tool to turn manga pages into .html files you can look up with Yomichan"
+* [Jidoujisho](https://github.com/lrorpilla/jidoujisho) : Android app to read books with translation like Yomichan, also with Anki integration
+ 
+### Listening
+
+* [Mpvacious](https://github.com/Ajatt-Tools/mpvacious) : mpv extension to use Yomichan on video subtitles, with Anki integration
+* [Jidoujisho](https://github.com/lrorpilla/jidoujisho) : can also be used to watch videos with translatable subtitles and Anki integration
 
 ## Reading & listening material
 
@@ -51,6 +68,13 @@ I recommend having an English translation of the book you're reading, alongside 
 
 * [Itazuraneko](https://itazuraneko.neocities.org/library/onsei.html) : I don't listen to audiobooks but Itazuraneko has a lot
 * [Arch wiki VN](https://wiki.archlinux.org/title/List_of_games#Visual_novels) : list of visual novels on the Arch wiki
+
+
+## Statistics
+
+* [jpdb.io](https://jpdb.io/) : gives an estimation of the level needed to read/watch given works
+* [Kanji Frequency](https://scriptin.github.io/kanji-frequency/) : kanji usage frequency
+
 
 ### Other useful guides
 * [TheMoeWay](https://learnjapanese.moe/) : in-depth explanations
