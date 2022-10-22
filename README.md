@@ -14,7 +14,7 @@ The best free resources that I personally use (or used) for learning Japanese.
 
 * [Yomichan](https://addons.mozilla.org/en-US/firefox/addon/yomichan/): web browser extension to translate unknown words in web pages
   * it can be linked to Anki with AnkiConnect to generate flashcards of the words you can't read
-  * can be used to reaed books since .epub ebooks contain .html files
+  * can be used to read books since .epub ebooks contain .html files
   * the dictionaries I use can be found in the "Dictionaries" folder (other dictionaries can be found [here](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH))
 * [Hibiscus](http://read.hibiscus.moe/): .epub online reader implementing vertical reading like in real Japanese books
 * [Mokuro](https://github.com/kha-white/mokuro): an very efficient OCR tool to turn manga pages into .html files you can look up with Yomichan
