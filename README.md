@@ -12,24 +12,27 @@ The best free resources that I personally use (or used) for learning Japanese.
 
 ### Reading
 
-* [Yomichan](https://addons.mozilla.org/en-US/firefox/addon/yomichan/): web browser extension to translate unknown words in web pages
-  * it can be linked to Anki with AnkiConnect to generate flashcards of the words you can't read
+* [Yomichan](https://addons.mozilla.org/en-US/firefox/addon/yomichan/): web browser extension for translating unknown words in web pages
+  * it can be linked to Anki with AnkiConnect to generate flashcards of the words you can't read (see [here](https://animecards.site/yomichansetup/))
   * can be used to read books since .epub ebooks contain .html files
-  * the dictionaries I use can be found in the "Dictionaries" folder (other dictionaries can be found [here](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH))
+  * the dictionaries I use can be found in the ["Dictionaries" folder](https://github.com/IgrecL/Japanese-Learning-Resources/tree/main/Dictionaries) (other dictionaries can be found [here](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH))
 * [Hibiscus](http://read.hibiscus.moe/): .epub online reader implementing vertical reading like in real Japanese books
-* [Mokuro](https://github.com/kha-white/mokuro): an very efficient OCR tool to turn manga pages into .html files you can look up with Yomichan
 * [Jidoujisho](https://github.com/lrorpilla/jidoujisho): Android app to read books with translation like Yomichan, also with Anki integration
- 
+* [Mokuro](https://github.com/kha-white/mokuro): a very efficient OCR tool to turn manga pages into .html files you can look up with Yomichan
+
+[Mokuro.webm](https://user-images.githubusercontent.com/99618877/197377340-e298d29b-0657-4340-95dc-33b06c484500.webm)
+
 ### Listening
 
-* [Mpvacious](https://github.com/Ajatt-Tools/mpvacious): mpv extension to use Yomichan on video subtitles, with Anki integration
 * [Jidoujisho](https://github.com/lrorpilla/jidoujisho): can also be used to watch videos with translatable subtitles and Anki integration
+* [Mpvacious](https://github.com/Ajatt-Tools/mpvacious): mpv extension to use Yomichan on video subtitles, with Anki integration
+
 
 ### Dictionaries
 
 * [Jisho](https://jisho.org/): rich Japanese-English dictionary
 * [Wiktionary](https://en.wiktionary.org/): very detailed information for kanji lookup
-* [JapandDict](https://www.japandict.com/): dictionary and details on kanji
+* [JapanDict](https://www.japandict.com/): dictionary and details on kanji
 * [日仏辞典](https://www.dictionnaire-japonais.com/): Japanese-French dictionary
 
 
@@ -39,7 +42,6 @@ The best free resources that I personally use (or used) for learning Japanese.
 
 * [Itazuraneko](https://itazuraneko.neocities.org/library/librarymain.html): richest source of immersion material
 * [Nyaa](https://nyaa.si/): biggest torrent site for anime, manga, light novels and dramas
-* [Tokyo Tosho](https://www.tokyotosho.info/): another torrent site
 
 ### Subtitles
 
@@ -62,6 +64,7 @@ I personally never use streaming websites for learning. Downloading what you con
 
 Reading raw manga is pretty hard, but you can use tools such as Mokuro and Yomichan to make it achievable earlier.
 * [Itazuraneko Manga](https://itazuraneko.neocities.org/library/manga.html): a lot of raw manga
+* [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi): you can bulk download japanes manga through Tachiyomi and export them to your computer afterwards
 
 ### Books
 
@@ -83,7 +86,8 @@ I rarely watch TV but there are lots of way to do it.
 
 ### Youtube
 
-See Youtube.MD
+Watching Youtube videos is a good way to learn japanese, but finding interesting channels can be hard.
+See Youtube.MD for a list of the Youtube channels I follow.
 
 ### Other
 
@@ -98,6 +102,8 @@ See Youtube.MD
 * [Aozora Bunko stats](https://core6000.neocities.org/aozora/): number of kanji needed to read Aozora Bunko novels
 
 
-### Other useful guides and resources
+## Other useful guides and resources
+
 * [TheMoeWay](https://learnjapanese.moe/): in-depth explanations of Anki and Yomichan, plus other tools
+* [Animecards](https://animecards.site/): how to link Yomichan and Anki, and other useful information
 * [Tatsumoto's Guide](https://tatsumoto.neocities.org/blog/resources.html): very rich, Linux oriented
