@@ -58,7 +58,7 @@ Japanese subtitles for specific shows can be really hard to find or even unavail
 I personally never use streaming websites for learning. Downloading what you consume makes learning easier, as you can use all kinds of tools that only work on files on your computer. However, I used to do so at first, so here are the best ones:
 
 * [Animelon](https://animelon.com/): Japanese and English subtitles available
-* [B9GOOD](http://b9good.com/): raw anime online
+* [Zoro.to](https://zoro.to/): you can turn off the English subtitles, but no Japanese subs
 
 ### Manga
 
@@ -87,7 +87,7 @@ I rarely watch TV but there are lots of way to do it.
 ### Youtube
 
 Watching Youtube videos is a good way to learn japanese, but finding interesting channels can be hard.
-See Youtube.MD for a list of the Youtube channels I follow.
+* see [Youtube.md](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Youtube.md) for a list of interesting Youtube channels
 
 ### Other
 
