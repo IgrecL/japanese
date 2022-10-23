@@ -20,6 +20,8 @@ The best free resources that I personally use (or used) for learning Japanese.
 * [Jidoujisho](https://github.com/lrorpilla/jidoujisho): Android app to read books with translation like Yomichan, also with Anki integration
 * [Mokuro](https://github.com/kha-white/mokuro): a very efficient OCR tool to turn manga pages into .html files you can look up with Yomichan
 
+Here's what Mokuro + Yomichan allows you to do:
+
 [Mokuro.webm](https://user-images.githubusercontent.com/99618877/197377340-e298d29b-0657-4340-95dc-33b06c484500.webm)
 
 ### Listening
@@ -27,6 +29,9 @@ The best free resources that I personally use (or used) for learning Japanese.
 * [Jidoujisho](https://github.com/lrorpilla/jidoujisho): can also be used to watch videos with translatable subtitles and Anki integration
 * [Mpvacious](https://github.com/Ajatt-Tools/mpvacious): mpv extension to use Yomichan on video subtitles, with Anki integration
 
+You can set up mpvacious and Yomichan to generate vocab Anki cards with the context sentence, both in Japanese and translated in English, with the audio of the line, a screenshot of the scene and a definition of the word (or a translation):
+
+[Example.webm](https://user-images.githubusercontent.com/99618877/197393339-cc4f94df-75bc-49ce-9fde-dc6f3a49e084.webm)
 
 ### Dictionaries
 
