@@ -7,6 +7,7 @@ The best free resources that I personally use (or used) for learning Japanese.
 ### Learning
 
 * [Anki](https://ankiweb.net/shared/decks/): spaced repetition flashcards app for learning vocab
+  * useful Anki addons : [AJT Furigana](https://github.com/Ajatt-Tools/Furigana) and [PitchAccent](https://github.com/Ajatt-Tools/PitchAccent)
 * [WaniKani](https://ankiweb.net/shared/info/1609000301): great at first for learning kanji and words, but not very good when you reach intermediate level
 * [Tae Kim's Guide](https://guidetojapanese.org/learn/grammar): good way to learn Japanese grammar
 
