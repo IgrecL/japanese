@@ -101,6 +101,9 @@ Watching Youtube videos is a good way to learn japanese, but finding interesting
 * [Kanji Frequency](https://scriptin.github.io/kanji-frequency/): kanji usage frequency
 * [Aozora Bunko stats](https://core6000.neocities.org/aozora/): number of kanji needed to read Aozora Bunko novels
 
+It's often said that knowing 500 kanji gives you 80% comprehension, 1000 kanji 95% comprehension and 2000 kanji 98% comprehension. Even though 95% sounds like a lot, it still means that you don't understand 1 word out of 20 (more or less according to the level of what you are reading). These texts, imitating what happens when reading a Japanese text with those 3 levels of kanji, help understand the importance of learning them:
+
+<img src="https://user-images.githubusercontent.com/99618877/197379723-6cd3247a-a380-4049-aa05-078d9627253a.jpg" width="500">
 
 ## Other useful guides and resources
 
