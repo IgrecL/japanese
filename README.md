@@ -29,6 +29,7 @@ Here's what Mokuro + Yomichan allows you to do:
 
 * [Jidoujisho](https://github.com/lrorpilla/jidoujisho): can also be used to watch videos with translatable subtitles and Anki integration
 * [Mpvacious](https://github.com/Ajatt-Tools/mpvacious): mpv extension to use Yomichan on video subtitles, with Anki integration
+  * if you are on Wayland you'll need wl-clipboard
 
 You can set up mpvacious and Yomichan to generate vocab Anki cards with the context sentence, both in Japanese and translated in English, with the audio of the line, a screenshot of the scene and a definition of the word (or a translation):
 
