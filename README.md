@@ -1,8 +1,8 @@
 # Japanese Learning Resources
-The best free resources that I personally use to learn Japanese. 
+The best free tools and resources that I personally use to learn Japanese.<br>
+Click here to see a list of the specific works I read/watched, ranked by how hard they are to understand.
 
-
-## ① 初めに Introduction
+## 初めに Introduction
 
 ### 基本ツール Fundamental tools 
 
@@ -24,7 +24,8 @@ More specific categories will be details in sections 2 to 5, but you can find mo
 
 ### 漢字 Kanji
 
-The importance of learning kanji is often underestimated. Japanese grammar highly depends on the way kanji interact, and without them you won't be able to read or watch anything. Different learning approaches exist, and all of them have their drawbacks. My take on kanji is that learning them independantly is useful at first, but it soon becomes a waste of time; I learnt them mainly through immersion.
+The importance of learning kanji is often underestimated. Japanese grammar highly depends on the way kanji interact, and without them you won't be able to read or watch anything.<br>
+Different learning approaches exist, and all of them have their drawbacks. My take on kanji is that learning them independantly is useful at first, but it soon becomes a waste of time; I learned them mainly through immersion.
 
 * [WaniKani](https://ankiweb.net/shared/info/1609000301): famous method of learning based on mnemonics (for beginners)
 * [RTK (Remembering The Kanji)](https://mega.nz/folder/SkUABA5Q#4DT43HxP5vZi1pVq44_TVQ): more agressive method (but probably faster)
@@ -49,13 +50,11 @@ Buying a physical Japanese dictionary isn't really necessary; a lot of great dic
 * [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/search/): pitch accent dictionary (advanced)
 
 
-## ② 読みながら習う Learning through reading
-
-Reading is the best way to learn vocabulary, grammar and kanji at the same time. Most of my Japanese comes from reading novels, articles and web pages.
+## ① 読みながら習う Learning through reading
 
 ### ツール Tools 
 
-Reading raw content is harsh but these tools can make it easier.
+Reading is the best way to learn vocabulary, grammar and kanji at the same time. Most of my Japanese comes from reading novels, articles and web pages. However, reading raw content is harsh, but these tools can make it easier.
 
 [Mokuro.webm](https://user-images.githubusercontent.com/99618877/197377340-e298d29b-0657-4340-95dc-33b06c484500.webm)
 
@@ -74,8 +73,7 @@ Manga are pretty hard to read at first, because sentences are shorts and sometim
 
 ### 本 Books
 
-In my opinion, reading books is the best way of enhancing your understanding of Japanese grammar and discovering a lot of words. Unlike reading manga, you don't get extra information from the drawings, and the sentences are more advanced and formal. The good news is that books are pretty easy to find.
-
+In my opinion, reading books is the best way of enhancing your understanding of Japanese grammar and discovering a lot of words. Unlike reading manga, you don't get extra information from the drawings, and the sentences are more advanced and formal. The good news is that books are pretty easy to find.<br>
 I recommend having an English translation of the book you're reading, alongside the Japanese version. Advanced Japanese syntax can be quite confusing, and you may think you understood the meaning of a sentence when in reality you mistook a grammatical form for another.
 
 * [Z-Lib](https://z-lib.org/): biggest online library (not only Japanese)
@@ -83,7 +81,7 @@ I recommend having an English translation of the book you're reading, alongside 
 * [Imperial Library](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/): if Z-Lib is down
 
 
-## ③ 聴きながら習う Learning through listening
+## ② 聴きながら習う Learning through listening
 
 ### ツール Tools
 
@@ -127,19 +125,24 @@ Watching Youtube videos is a good way to learn japanese, but finding interesting
 * see [Youtube.md](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Youtube.md) for a list of interesting Youtube channels
 
 
-## ④ ゲームをしながら習う Learning through games
+## ③ 他の方法 Other ways
 
+### ゲーム Games 
 
+There aren't any tools like Mokuro or Mpvacious for games (of course), but it doesn't mean that it's impossible. Playing games where you have to understand the story to progress is best. 
 
+* [Manga OCR](https://github.com/kha-white/manga-ocr): can also be used on games if you play them on PC (via emulation if not available on PC)
+* [ROMs](https://r-roms.github.io/): mega-thread for ROMs
+* [Emulators on Arch](https://wiki.archlinux.org/title/Video_game_platform_emulators#Nintendo): for Arch users
+* [VNs on Arch](https://wiki.archlinux.org/title/List_of_games#Visual_novels): I don't play VNs but yeah
 
+### オーディオブック Audiobooks
 
-### Other
+Audiobooks and podcasts are for more advanced learners. Having a visual support is easier for learning.
 
 * [Itazuraneko](https://itazuraneko.neocities.org/library/onsei.html): I don't listen to audiobooks but Itazuraneko has a lot
-* [Arch wiki VN](https://wiki.archlinux.org/title/List_of_games#Visual_novels): list of visual novels on the Arch wiki
 
-
-## Statistics
+## 統計 Statistics
 
 * [jpdb.io](https://jpdb.io/): gives an estimation of the level needed to read/watch given works
 * [Kanji Frequency](https://scriptin.github.io/kanji-frequency/): kanji usage frequency
@@ -147,10 +150,11 @@ Watching Youtube videos is a good way to learn japanese, but finding interesting
 
 It's often said that knowing 500 kanji gives you 80% comprehension, 1000 kanji 95% comprehension and 2000 kanji 98% comprehension. Even though 95% sounds like a lot, it still means that you don't understand 1 word out of 20 (more or less according to the level of what you are reading). These texts, imitating what happens when reading a Japanese text with those 3 levels of kanji, help understand the importance of learning them:
 
-<img src="https://user-images.githubusercontent.com/99618877/197379723-6cd3247a-a380-4049-aa05-078d9627253a.jpg" width="500">
+<img src="https://user-images.githubusercontent.com/99618877/197379723-6cd3247a-a380-4049-aa05-078d9627253a.jpg" width="300">
 
-## Other useful guides and resources
+## 他のガイド Other guides
 
 * [TheMoeWay](https://learnjapanese.moe/): in-depth explanations of Anki and Yomichan, plus other tools
 * [Animecards](https://animecards.site/): how to link Yomichan and Anki, and other useful information
 * [Tatsumoto's Guide](https://tatsumoto.neocities.org/blog/resources.html): very rich, Linux oriented
+* [Kaisai-ben Guide](https://itazuraneko.neocities.org/horon/hougen/osakabenmain.html): if you go to Kansai 
