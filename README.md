@@ -1,6 +1,6 @@
 # Japanese Learning Resources
 The best free tools and resources that I personally use to learn Japanese.<br>
-Click here to see a list of the specific works I read/watched, ranked by how hard they are to understand.
+[Click here](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Ranking.md) to see a list of the specific works I read/watched, ranked by how hard they are to understand.
 
 ## 初めに Introduction
 
