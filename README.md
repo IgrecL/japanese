@@ -1,56 +1,101 @@
 # Japanese Learning Resources
-The best free resources that I personally use (or used) for learning Japanese. 
+The best free resources that I personally use to learn Japanese. 
 
 
-## Tools
+## ① 初めに Introduction
 
-### Learning
+### 基本ツール Fundamental tools 
 
-* [Anki](https://ankiweb.net/shared/decks/): spaced repetition flashcards app for learning vocab
-  * useful Anki addons : [AJT Furigana](https://github.com/Ajatt-Tools/Furigana) and [PitchAccent](https://github.com/Ajatt-Tools/PitchAccent)
-* [WaniKani](https://ankiweb.net/shared/info/1609000301): great at first for learning kanji and words, but not very good when you reach intermediate level
-* [Tae Kim's Guide](https://guidetojapanese.org/learn/grammar): good way to learn Japanese grammar
+Most of the tools mentioned here can be used with Yomichan and Anki to create efficient flashcards.
 
-### Reading
-
+* [Anki](https://ankiweb.net/shared/decks/): spaced repetition flashcards app for learning pretty much anything (vocabulary, sentence mining, grammar, etc.)
+  * useful Anki addons: [AJT Furigana](https://github.com/Ajatt-Tools/Furigana) and [PitchAccent](https://github.com/Ajatt-Tools/PitchAccent)
 * [Yomichan](https://addons.mozilla.org/en-US/firefox/addon/yomichan/): web browser extension for translating unknown words in web pages
   * it can be linked to Anki with AnkiConnect to generate flashcards of the words you can't read (see [here](https://animecards.site/yomichansetup/))
   * can be used to read books since .epub ebooks contain .html files
   * the dictionaries I use can be found in the ["Dictionaries" folder](https://github.com/IgrecL/Japanese-Learning-Resources/tree/main/Dictionaries) (other dictionaries can be found [here](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH))
-* [Hibiscus](http://read.hibiscus.moe/): .epub online reader implementing vertical reading like in real Japanese books
-* [Jidoujisho](https://github.com/lrorpilla/jidoujisho): Android app to read books with translation like Yomichan, also with Anki integration
-* [Mokuro](https://github.com/kha-white/mokuro): a very efficient OCR tool to turn manga pages into .html files you can look up with Yomichan
 
-Here's what Mokuro + Yomichan allows you to do:
+### 読み物と聴き物 Reading & listening material
 
-[Mokuro.webm](https://user-images.githubusercontent.com/99618877/197377340-e298d29b-0657-4340-95dc-33b06c484500.webm)
+More specific categories will be details in sections 2 to 5, but you can find most of what you're looking for on these websites:
 
-### Listening
+* [Itazuraneko](https://itazuraneko.neocities.org/library/librarymain.html): richest source of immersion material (not updated anymore :/)
+* [Nyaa](https://nyaa.si/): biggest torrent site for anime, manga, light novels and dramas
 
-* [Jidoujisho](https://github.com/lrorpilla/jidoujisho): can also be used to watch videos with translatable subtitles and Anki integration
-* [Mpvacious](https://github.com/Ajatt-Tools/mpvacious): mpv extension to use Yomichan on video subtitles, with Anki integration
-  * if you are on Wayland you'll need wl-clipboard
+### 漢字 Kanji
 
-You can set up mpvacious and Yomichan to generate vocab Anki cards with the context sentence, both in Japanese and translated in English, with the audio of the line, a screenshot of the scene and a definition of the word (or a translation):
+The importance of learning kanji is often underestimated. Japanese grammar highly depends on the way kanji interact, and without them you won't be able to read or watch anything. Different learning approaches exist, and all of them have their drawbacks. My take on kanji is that learning them independantly is useful at first, but it soon becomes a waste of time; I learnt them mainly through immersion.
 
-[Example.webm](https://user-images.githubusercontent.com/99618877/197393339-cc4f94df-75bc-49ce-9fde-dc6f3a49e084.webm)
+* [WaniKani](https://ankiweb.net/shared/info/1609000301): famous method of learning based on mnemonics (for beginners)
+* [RTK (Remembering The Kanji)](https://mega.nz/folder/SkUABA5Q#4DT43HxP5vZi1pVq44_TVQ): more agressive method (but probably faster)
+* [Kanji Damage](https://www.kanjidamage.com/): learning kanji with yo mama jokes
 
-### Dictionaries
+### 文法 Grammar
+
+Famous Japanese grammar books aimed at foreigners (Minna no Nihongo, Genki, etc.) teach Japanese grammar in a weird order in my opinion. I would say that learning grammar combining different guides is the best way to understand it completely (and of course immersion).
+
+* [Tae Kim's Guide](https://guidetojapanese.org/learn/grammar): highly regarder free guide
+* [Minna no Nihongo](https://learnjapaneseaz.com/vocabulary-for-minna-no-nihongo-1.html): book often used in Japanese class all around the world
+* [GENKI](https://genki3.japantimes.co.jp/en/): another famous grammar book
+
+### 辞典 Dictionaries
+
+Buying a physical Japanese dictionary isn't really necessary; a lot of great dictionaries can be found online. Here are the ones I use.
 
 * [Jisho](https://jisho.org/): rich Japanese-English dictionary
 * [Wiktionary](https://en.wiktionary.org/): very detailed information for kanji lookup
 * [JapanDict](https://www.japandict.com/): dictionary and details on kanji
 * [日仏辞典](https://www.dictionnaire-japonais.com/): Japanese-French dictionary
+* [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/search/): pitch accent dictionary (advanced)
 
 
-## Reading & listening material
+## ② 読みながら習う Learning through reading
 
-### General
+Reading is the best way to learn vocabulary, grammar and kanji at the same time. Most of my Japanese comes from reading novels, articles and web pages.
 
-* [Itazuraneko](https://itazuraneko.neocities.org/library/librarymain.html): richest source of immersion material
-* [Nyaa](https://nyaa.si/): biggest torrent site for anime, manga, light novels and dramas
+### ツール Tools 
 
-### Subtitles
+Reading raw content is harsh but these tools can make it easier.
+
+[Mokuro.webm](https://user-images.githubusercontent.com/99618877/197377340-e298d29b-0657-4340-95dc-33b06c484500.webm)
+
+* [Manga OCR](https://github.com/kha-white/manga-ocr): great optical character recognition tool
+* [Mokuro](https://github.com/kha-white/mokuro): tool based on Manga OCR, used to turn manga pages into .html files you can look up with Yomichan
+* [Hibiscus](http://read.hibiscus.moe/): .epub online reader implementing vertical reading like in real Japanese books
+* [ッツ Ebook Reader](https://ttu-ebook.web.app/manage): same as Hibiscus
+* [Jidoujisho](https://github.com/lrorpilla/jidoujisho): Android app to read books and manga with Yomichan-like translation, also with Anki integration (and a lot of other things)
+
+### 漫画 Manga
+
+Manga are pretty hard to read at first, because sentences are shorts and sometime use very specific vocabulary.
+
+* [Itazuraneko Manga](https://itazuraneko.neocities.org/library/manga.html): a lot of raw manga
+* [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi): you can bulk download japanes manga through Tachiyomi and export them to your computer afterwards
+
+### 本 Books
+
+In my opinion, reading books is the best way of enhancing your understanding of Japanese grammar and discovering a lot of words. Unlike reading manga, you don't get extra information from the drawings, and the sentences are more advanced and formal. The good news is that books are pretty easy to find.
+
+I recommend having an English translation of the book you're reading, alongside the Japanese version. Advanced Japanese syntax can be quite confusing, and you may think you understood the meaning of a sentence when in reality you mistook a grammatical form for another.
+
+* [Z-Lib](https://z-lib.org/): biggest online library (not only Japanese)
+* [Itazuraneko Books](https://itazuraneko.neocities.org/library/shousetu.html): all kinds of Japanese books
+* [Imperial Library](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/): if Z-Lib is down
+
+
+## ③ 聴きながら習う Learning through listening
+
+### ツール Tools
+
+You can set up mpvacious and Yomichan to generate vocab Anki cards with the context sentence, both in Japanese and translated in English, with the audio of the line, a screenshot of the scene and a definition of the word (or a translation)
+
+[Example.webm](https://user-images.githubusercontent.com/99618877/197393339-cc4f94df-75bc-49ce-9fde-dc6f3a49e084.webm)
+
+* [Mpvacious](https://github.com/Ajatt-Tools/mpvacious): mpv extension to use Yomichan on video subtitles, with Anki integration
+  * if you are on Wayland you'll need wl-clipboard
+* [Jidoujisho](https://github.com/lrorpilla/jidoujisho): can also be used to watch videos with translatable subtitles and Anki integration
+
+### 字幕 Subtitles
 
 Japanese subtitles for specific shows can be really hard to find or even unavailable (e.g. Ashita no Joe). If what you are looking for can't be found in theses lists, it probably doesn't exist.
 
@@ -60,30 +105,14 @@ Japanese subtitles for specific shows can be really hard to find or even unavail
 * [Netflix](https://mega.nz/folder/2H4CFQYR#bd9LHl9VOqdT3crrJa0Axw): very long list of subtitles ripped from Netflix
 * [Japanese Movies](https://github.com/eurusdagr/Japanese-Movies-Subtitles): subtitles for Japanese movies, ordered by directors
 
-### Anime streaming websites
+### ストリーミング Streaming
 
-I personally never use streaming websites for learning. Downloading what you consume makes learning easier, as you can use all kinds of tools that only work on files on your computer. However, I used to do so at first, so here are the best ones:
+I personally never use streaming websites for learning. Downloading what you consume makes learning easier, as you can use all kinds of tools that only work on files on your computer. However, I used to do so at first, so here are the best ones I found for anime:
 
 * [Animelon](https://animelon.com/): Japanese and English subtitles available
 * [Zoro.to](https://zoro.to/): you can turn off the English subtitles, but no Japanese subs
 
-### Manga
-
-Reading raw manga is pretty hard, but you can use tools such as Mokuro and Yomichan to make it achievable earlier.
-* [Itazuraneko Manga](https://itazuraneko.neocities.org/library/manga.html): a lot of raw manga
-* [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi): you can bulk download japanes manga through Tachiyomi and export them to your computer afterwards
-
-### Books
-
-In my opinion, reading books is the best way to enhance your understanding of Japanese grammar and to learn a lot of words. Unlike reading manga, you don't get extra information from the drawings, and the sentences are more advanced and formal. The good news is that books are way easier to find than anime subtitles.
-
-I recommend having an English translation of the book you're reading, alongside the Japanese version. Advanced Japanese syntax can be quite confusing, and you may think you understood the meaning of a sentence when in reality you mistook a grammatical form for another.
-
-* [Z-Lib](https://z-lib.org/): biggest online library (not only Japanese)
-* [Itazuraneko Books](https://itazuraneko.neocities.org/library/shousetu.html): all kinds of Japanese books
-* [Imperial Library](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/): if Z-Lib is down
-
-### TV
+### テレビ TV
 
 I rarely watch TV but there are lots of way to do it.
 
@@ -91,10 +120,18 @@ I rarely watch TV but there are lots of way to do it.
 * [jp.m3u](https://raw.githubusercontent.com/gadabao/iptv-org-iptv/gh-pages/countries/jp.m3u): playlist of channels you can open in mpv
 * [News24](https://github.com/tatsumoto-ren/dotfiles/blob/main/.local/share/applications/news24.desktop): watch news through mpv
 
-### Youtube
+### ユーチューブ Youtube
 
 Watching Youtube videos is a good way to learn japanese, but finding interesting channels can be hard.
+
 * see [Youtube.md](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Youtube.md) for a list of interesting Youtube channels
+
+
+## ④ ゲームをしながら習う Learning through games
+
+
+
+
 
 ### Other
 
