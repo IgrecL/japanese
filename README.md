@@ -30,6 +30,7 @@ Different learning approaches exist, and all of them have their drawbacks. My ta
 * [WaniKani](https://ankiweb.net/shared/info/1609000301): famous method of learning based on mnemonics (for beginners)
 * [RTK (Remembering The Kanji)](https://mega.nz/folder/SkUABA5Q#4DT43HxP5vZi1pVq44_TVQ): more agressive method (but probably faster)
 * [Kanji Damage](https://www.kanjidamage.com/): learning kanji with yo mama jokes
+* [Kanji no Yomi](https://github.com/IgrecL/KanjiNoYomi) : a tool I created to review kanji on'yomi
 
 ### 文法 Grammar
 
