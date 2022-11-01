@@ -13,7 +13,6 @@ Most of the tools mentioned here can be used with Yomichan and Anki to create ef
 * [Yomichan](https://addons.mozilla.org/en-US/firefox/addon/yomichan/): web browser extension for translating unknown words in web pages
   * it can be linked to Anki with AnkiConnect to generate flashcards of the words you can't read (see [here](https://animecards.site/yomichansetup/))
   * can be used to read books since .epub ebooks contain .html files
-  * the dictionaries I use can be found in the ["Dictionaries" folder](https://github.com/IgrecL/Japanese-Learning-Resources/tree/main/Dictionaries) (other dictionaries can be found [here](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH))
 
 ### 読み物と聴き物 Reading & listening material
 
@@ -49,6 +48,28 @@ Buying a physical Japanese dictionary isn't really necessary; a lot of great dic
 * [JapanDict](https://www.japandict.com/): dictionary and details on kanji
 * [日仏辞典](https://www.dictionnaire-japonais.com/): Japanese-French dictionary
 * [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/search/): pitch accent dictionary (advanced)
+
+### 読みちゃん Yomichan
+
+A beginner has to start with a bilingual dictionary, such as JMdict (English) Alternate.<br>
+However, you should switch to monolingual dictionaries as soon as possible, because it helps understanding nuances and forces you not to rely on another language. See [here](https://learnjapanese.moe/monolingual/) for a more detailed explanation.
+
+My config file for Yomichan can be found in this repository.<br>
+The dictionaries I use are in ["Dictionaries" folder](https://github.com/IgrecL/Japanese-Learning-Resources/tree/main/Dictionaries). (other dictionaries can be found [here](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH))
+
+The priority order of monolingual dictionaries I use:
+1. 旺文社国語辞典 第十一版 画像無し: concise and very simple definitions
+2. 明鏡国語辞典: simple definitions too
+3. 大辞林 第三版: contains many entries and remains quite simple
+4. 実用日本語表現辞典: for expressions, many entries
+5. 精選版 日本国語大辞典: the biggest Japanese dictionary in existence (fallback dictionary)
+
+I also use frequency lists to judge if a word is worth learning or not:
+* Innocent Ranked: based on 5000+ novels
+* Anime & Jdrama
+* Netflix
+
+![image](https://user-images.githubusercontent.com/99618877/199360007-d50949eb-1582-4c23-b3ca-5d90e2acdef7.png)
 
 
 ## ① 読みながら習う Learning through reading
