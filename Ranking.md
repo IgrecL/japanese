@@ -1,7 +1,7 @@
 # Ranking of works
 
 List of works I read/watched, organized by categories and ranked from easiest to hardest.<br>
-Last column indicates if I finished it or not (some of them ar very long)
+Last column indicates if I finished it or not (some of them are very long)
 
 ### Manga
 
