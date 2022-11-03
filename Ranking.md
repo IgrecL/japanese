@@ -9,7 +9,8 @@ Last column indicates if I finished it or not (some of them are very long)
 | ----------- | ----------- | ----------- | ----------- | -----------
 | [よつばと!](https://anilist.co/manga/30104/) | Yotsuba&! | 15巻 | Perfect for beginners; simple grammar and vocabulary; few kanji | ✗
 | [古見さん](https://anilist.co/manga/97852/) | Komi-san | 27巻+ | Some characters have unnatural ways of speaking | ✗
-| [秘密の果実](https://anilist.co/manga/116835/) | Himitsu no Kajitsu | 3巻 | A bit harder; specific vocabulary | ✗
+| [アリア](https://anilist.co/manga/30081/ARIA/) | ARIA | 12巻 | Short dialogs; simple plot; some specific vocabulary | ...
+| [秘密の果実](https://anilist.co/manga/116835/) | Himitsu no Kajitsu | 3巻 | A bit harder; mystery; uncommon vocabulary | ✗
 
 ### Novels
 
@@ -26,13 +27,13 @@ Last column indicates if I finished it or not (some of them are very long)
 | Japanese title | English title | Length | Notes | ▢
 | ----------- | ----------- | ----------- | ----------- | -----------
 | [幸腹グラフィティ](https://anilist.co/anime/20744/) | Kōfuku no Graffiti | 12話 | Everyday life vocab; food vocab | ✓
-| [宇宙よりも遠い場所](https://anilist.co/anime/99426/) | Sora yori mo Tōi Basho | 13話 | Adults' dialogs are harder to follow | ✓
 | [テラスハウス](https://en.wikipedia.org/wiki/Terrace_House) | Terrace House | 500話+ | Famous reality show with realistical interactions | ...
-| [ワンピース](https://anilist.co/anime/21/ONE-PIECE/) | One Piece | 1000話+ | Piracy vocab; no complicated plotline (at first) | ✗
+| [宇宙よりも遠い場所](https://anilist.co/anime/99426/) | Sora yori mo Tōi Basho | 13話 | Adults' dialogs are harder to follow | ✓
 | [ヲタクに恋は難しい](https://anilist.co/anime/99578/) | Wotakoi | 12話 | Everyday life vocab; working environment | ✓
+| [ワンピース](https://anilist.co/anime/21/ONE-PIECE/) | One Piece | 1000話+ | Piracy vocab; no complicated plot (at first) | ✗
 | [このすば](https://anilist.co/anime/21202/) | Konosuba | 20話+ | Fantasy vocab; jokes can be hard to understand; cringe | ✗
-| [ささみさん](https://anilist.co/anime/14515/) | Sasami-san | 12話 | "Mystical" vocab; can be hard to follow storywise | ✓
 | [デュラララ!!](https://anilist.co/anime/6746/) | Durarara!! | 60話 | Mystery genre; some hard dialogs (and sometime subtle) | ...
+| [ささみさん](https://anilist.co/anime/14515/) | Sasami-san | 12話 | "Mystical" vocab; can be hard to follow storywise | ✓
 
 ### Games
 
