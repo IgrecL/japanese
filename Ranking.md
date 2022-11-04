@@ -5,7 +5,7 @@ Last column indicates if I finished it or not (some of them are very long)
 
 ### Manga
 
-| Title | Year | Length | Syntax | Vocab | Furigana | ▢
+| Title | Year | Length | Syntax | Vocab | Furigana |▢
 | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 | [よつばと!<br>Yotsuba&!](https://anilist.co/manga/30104/) | 2003 | 15券 | ★☆☆☆☆ | ★☆☆☆☆ | YES | ✗
 | [古見さん<br>Komi-san](https://anilist.co/manga/97852/) | 2016 | 27券+ | ★★☆☆☆ | ★☆☆☆☆ | YES | ✗
@@ -14,7 +14,7 @@ Last column indicates if I finished it or not (some of them are very long)
 
 ### Novels
 
-| Title | Year | Length | Syntax | Vocab | Sentence | Individual kanji|  ▢
+| Title | Year | Length | Syntax | Vocab | Sentence | Individual kanji | ▢
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 | [キノの旅１<br>Kino no Tabi 1](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu001990/satu001990.html) | 2000 | 75,000字 | ★☆☆☆☆ | ★☆☆☆☆ | 23字/sent. | Jōyō : 1209字<br>Other : 134字| ✓
 | [キノの旅２<br>Kino no Tabi 2](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu001991/satu001991.html) | 2000 | 75,000字 | ★☆☆☆☆ | ★☆☆☆☆ | 23字/sent. | Jōyō : 1288字<br>Other : 142字 | ✓
@@ -28,6 +28,13 @@ Last column indicates if I finished it or not (some of them are very long)
 
 The statistics are generated using my [Toukei](https://github.com/IgrecL/Toukei) script.<br>
 Keep in mind that the number of kanji depends on the length of the text. However, the Jōyō/Other ratio gives an idea of the level of kanji needed.
+
+### Short stories
+
+| Title | Year | Length | Syntax | Vocab | Sentence | Individual kanji | ▢
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
+| [蜘蛛の糸<br>Kumo no Ito](https://www.aozora.gr.jp/cards/000879/files/92_14545.html) | 1918 | 2,500字 | ★★★☆☆ | ★★☆☆☆ | 46字/sent. | Jōyō : 209字<br>Other : 30字 | ✓
+
 
 ### Anime/Series
 
