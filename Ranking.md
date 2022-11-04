@@ -14,6 +14,9 @@ Last column indicates if I finished it or not (some of them are very long)
 
 ### Novels
 
+The statistics are generated using my [Toukei](https://github.com/IgrecL/Toukei) script.<br>
+Keep in mind that the number of kanji depends on the length of the text. However, the Jōyō/Other ratio gives an idea of the level of kanji needed.
+
 | Title | Year | Length | Syntax | Vocab | Sentence | Individual kanji | ▢
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 | [キノの旅１<br>Kino no Tabi 1](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu001990/satu001990.html) | 2000 | 75,000字 | ★☆☆☆☆ | ★☆☆☆☆ | 23字/sent. | Jōyō : 1209字<br>Other : 134字| ✓
@@ -25,9 +28,6 @@ Last column indicates if I finished it or not (some of them are very long)
 | [ＮＨＫにようこそ！<br>NHK ni Yōkoso!](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu000526/satu000526.html) | 2002 | 110,000字 | ★★☆☆☆ | ★★☆☆☆ | 22字/sent | Jōyō : 1418字<br>Other : 238字 | ✗
 | [３日間の幸福<br>Mikkakan no Kōfuku](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu003446/satu003446.html) | 2013 | 110,000字 | ★★☆☆☆ | ★★☆☆☆ | 30字/sent | Jōyō : 1315字<br>Other : 223字 | ✓
 | [女生徒<br>Joseito](https://www.aozora.gr.jp/cards/000035/files/275_13903.html) | 1939 | 25,000字 | ★★★☆☆ | ★★☆☆☆ | 30字/sent | Jōyō : 916字<br>Other : 128字 | ✓
-
-The statistics are generated using my [Toukei](https://github.com/IgrecL/Toukei) script.<br>
-Keep in mind that the number of kanji depends on the length of the text. However, the Jōyō/Other ratio gives an idea of the level of kanji needed.
 
 ### Short stories
 
