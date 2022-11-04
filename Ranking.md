@@ -5,38 +5,45 @@ Last column indicates if I finished it or not (some of them are very long)
 
 ### Manga
 
-| Japanese title | English title | Length | Notes | ▢
-| ----------- | ----------- | ----------- | ----------- | -----------
-| [よつばと!](https://anilist.co/manga/30104/) | Yotsuba&! | 15巻 | Perfect for beginners; simple grammar and vocabulary; few kanji | ✗
-| [古見さん](https://anilist.co/manga/97852/) | Komi-san | 27巻+ | Some characters have unnatural ways of speaking | ✗
-| [アリア](https://anilist.co/manga/30081/ARIA/) | ARIA | 12巻 | Short dialogs; simple plot; some specific vocabulary | ...
-| [秘密の果実](https://anilist.co/manga/116835/) | Himitsu no Kajitsu | 3巻 | A bit harder; mystery; uncommon vocabulary | ✗
+| Title | Year | Length | Syntax | Vocab | Furigana | ▢
+| :---: | :---: | :---: | :---: | :---: | :---: | :---:
+| [よつばと!<br>Yotsuba&!](https://anilist.co/manga/30104/) | 2003 | 15券 | ★☆☆☆☆ | ★☆☆☆☆ | YES | ✗
+| [古見さん<br>Komi-san](https://anilist.co/manga/97852/) | 2016 | 27券+ | ★★☆☆☆ | ★☆☆☆☆ | YES | ✗
+| [アリア<br>ARIA](https://anilist.co/manga/30081/ARIA/) | 2002 | 12券 | ★☆☆☆☆ | ★★☆☆☆ | YES | ...
+| [秘密の果実<br>Himitsu no Kajitsu](https://anilist.co/manga/116835/) | 2019 | 3券 | ★★☆☆☆ | ★★☆☆☆ | YES | ✗
 
 ### Novels
 
-| Japanese title | English title | Length | Notes | ▢
-| ----------- | ----------- | ----------- | ----------- | -----------
-| [キノの旅](https://anilist.co/manga/30399/the-Beautiful-World/) | Kino no Tabi | 23巻+ | Basic syntax; episodic short stories (read vol. 1 to 5) | ✓
-| [キッチン](https://www.goodreads.com/book/show/50144.Kitchen) | Kitchen | 1巻 | 1988 novel with surprisingly simple syntax and vocabulary | ...
-| [ＮＨＫにようこそ！](https://anilist.co/manga/35249/) | NHK ni Yōkoso! | 1巻 | Advanced for LN standards | ✗
-| [３日間の幸福](https://anilist.co/manga/98361/) | Mikkakan no Kōfuku | 1巻 | Advanced for LN standards | ✓
-| [女生徒](https://www.goodreads.com/book/show/17854977-joseito) | Joseito | 1巻 | Hard syntax; 1939 novella by famous writer Dazai Osamu | ✓
+| Title | Year | Length | Syntax | Vocab | Sentence | Individual kanji|  ▢
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
+| [キノの旅１<br>Kino no Tabi 1](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu001990/satu001990.html) | 2000 | 75,000字 | ★☆☆☆☆ | ★☆☆☆☆ | 23字/sent. | Jōyō : 1209字<br>Other : 134字| ✓
+| [キノの旅２<br>Kino no Tabi 2](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu001991/satu001991.html) | 2000 | 75,000字 | ★☆☆☆☆ | ★☆☆☆☆ | 23字/sent. | Jōyō : 1288字<br>Other : 142字 | ✓
+| [キノの旅３<br>Kino no Tabi 3](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu001992/satu001992.html) | 2001 | 75,000字 | ★☆☆☆☆ | ★☆☆☆☆ | 22字/sent. | Jōyō : 1227字<br>Other : 145字 | ✓
+| [キノの旅４<br>Kino no Tabi 4](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu001993/satu001993.html) | 2001 | 75,000字 | ★☆☆☆☆ | ★☆☆☆☆ | 22字/sent. | Jōyō : 1225字<br>Other : 132字 | ✓
+| [キノの旅５<br>Kino no Tabi 5](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu001994/satu001994.html) | 2002 | 75,000字 | ★☆☆☆☆ | ★☆☆☆☆ | 22字/sent. | Jōyō : 1246字<br>Other : 140字 | ✓
+| [キッチン<br>Kitchen](https://yonde.itazuraneko.org/novelhtml/23917.html) | 1988 | 70,000字 | ★★☆☆☆ | ★☆☆☆☆ | 21字/sent | Jōyō : 1047字<br>Other : 28字 | ...
+| [ＮＨＫにようこそ！<br>NHK ni Yōkoso!](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu000526/satu000526.html) | 2002 | 110,000字 | ★★☆☆☆ | ★★☆☆☆ | 22字/sent | Jōyō : 1418字<br>Other : 238字 | ✗
+| [３日間の幸福<br>Mikkakan no Kōfuku](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu003446/satu003446.html) | 2013 | 110,000字 | ★★☆☆☆ | ★★☆☆☆ | 30字/sent | Jōyō : 1315字<br>Other : 223字 | ✓
+| [女生徒<br>Joseito](https://www.aozora.gr.jp/cards/000035/files/275_13903.html) | 1939 | 25,000字 | ★★★☆☆ | ★★☆☆☆ | 30字/sent | Jōyō : 916字<br>Other : 128字 | ✓
+
+The statistics are generated using my [Toukei](https://github.com/IgrecL/Toukei) script.<br>
+Keep in mind that the number of kanji depends on the length of the text. However, the Jōyō/Other ratio gives an idea of the level of kanji needed.
 
 ### Anime/Series
 
-| Japanese title | English title | Length | Notes | ▢
-| ----------- | ----------- | ----------- | ----------- | -----------
-| [幸腹グラフィティ](https://anilist.co/anime/20744/) | Kōfuku no Graffiti | 12話 | Everyday life vocab; food vocab | ✓
-| [テラスハウス](https://en.wikipedia.org/wiki/Terrace_House) | Terrace House | 500話+ | Famous reality show with realistical interactions | ...
-| [宇宙よりも遠い場所](https://anilist.co/anime/99426/) | Sora yori mo Tōi Basho | 13話 | Adults' dialogs are harder to follow | ✓
-| [ヲタクに恋は難しい](https://anilist.co/anime/99578/) | Wotakoi | 12話 | Everyday life vocab; working environment | ✓
-| [ワンピース](https://anilist.co/anime/21/ONE-PIECE/) | One Piece | 1000話+ | Piracy vocab; no complicated plot (at first) | ✗
-| [このすば](https://anilist.co/anime/21202/) | Konosuba | 20話+ | Fantasy vocab; jokes can be hard to understand; cringe | ✗
-| [デュラララ!!](https://anilist.co/anime/6746/) | Durarara!! | 60話 | Mystery genre; some hard dialogs (and sometime subtle) | ...
-| [ささみさん](https://anilist.co/anime/14515/) | Sasami-san | 12話 | "Mystical" vocab; can be hard to follow storywise | ✓
+| Title | Year | Length | Syntax | Vocab | ▢
+| :---: | :---: | :---: | :---: | :---: | :---:
+| [幸腹グラフィティ<br>Kōfuku no Graffiti](https://anilist.co/anime/20744/) | 2015 | 12話 | ★☆☆☆☆ | ★☆☆☆☆ | ✓
+| [テラスハウス<br>Terrace House](https://en.wikipedia.org/wiki/Terrace_House) | 2012 | 500話+ | ★☆☆☆☆ | ★☆☆☆☆ | ...
+| [宇宙よりも遠い場所<br>Sora yori mo Tōi Basho](https://anilist.co/anime/99426/) | 2018 | 13話 | ★☆☆☆☆ | ★★☆☆☆ | ✓
+| [ワンピース<br>One Piece](https://anilist.co/anime/21/ONE-PIECE/) | 1999 | 1000話+ | ★☆☆☆☆ | ★★☆☆☆ | ✗
+| [ヲタクに恋は難しい<br>Wotakoi](https://anilist.co/anime/99578/) | 2018 | 12話 | ★★☆☆☆ | ★☆☆☆☆ | ✓
+| [このすば<br>Konosuba](https://anilist.co/anime/21202/) | 2016 | 20話+ | ★★☆☆☆ | ★★☆☆☆ | ✗
+| [デュラララ!!<br>Durarara!!](https://anilist.co/anime/6746/) | 2010 | 60話 | ★★☆☆☆ | ★★☆☆☆ | ...
+| [ささみさん<br>Sasami-san](https://anilist.co/anime/14515/) | 2013 | 12話 | ★★☆☆☆ | ★★★☆☆ | ✓
 
 ### Games
 
-| Japanese title | English title | Notes | ▢
-| ----------- | ----------- | ----------- | -----------
-| [レイトン教授と不思議な村](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%88%E3%83%B3%E6%95%99%E6%8E%88%E3%81%A8%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E7%94%BA) | Professor Layton and the Curious Village | Mystery and story-based; varied vocabulary | ...
+| Title | Year | ▢
+| :---: | :---: | :---:
+| [レイトン教授と不思議な村<br>Professor Layton and the Curious Village](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%88%E3%83%B3%E6%95%99%E6%8E%88%E3%81%A8%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E7%94%BA) | 2007 | ...
