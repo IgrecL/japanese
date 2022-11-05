@@ -61,20 +61,13 @@ The priority order of monolingual dictionaries I use:
 1. 旺文社国語辞典 第十一版 画像無し: concise and very simple definitions
 2. 明鏡国語辞典: simple definitions too
 3. 大辞林 第三版: contains many entries and remains quite simple
-4. 実用日本語表現辞典: for expressions, many entries
+4. 実用日本語表現辞典: for expressions
 5. 精選版 日本国語大辞典: the biggest Japanese dictionary in existence (fallback dictionary)
-
-I also use frequency lists to judge if a word is worth learning or not:
-* Innocent Ranked: based on 5000+ novels
-* Anime & Jdrama
-* Netflix
-
-![image](https://user-images.githubusercontent.com/99618877/199360007-d50949eb-1582-4c23-b3ca-5d90e2acdef7.png)
 
 
 ## ① Learning through reading
 
-### ツール Tools 
+### Tools 
 
 Reading is the best way to learn vocabulary, grammar and kanji at the same time. Most of my Japanese comes from reading novels, articles and web pages. However, reading raw content is harsh, but these tools can make it easier.
 
@@ -107,7 +100,7 @@ I recommend having an English translation of the book you're reading, alongside 
 
 ## ② Learning through listening
 
-### ツール Tools
+### Tools
 
 You can set up mpvacious and Yomichan to generate vocab Anki cards with the context sentence, both in Japanese and translated in English, with the audio of the line, a screenshot of the scene and a definition of the word (or a translation)
 
