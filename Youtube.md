@@ -28,7 +28,15 @@
 ### Story-telling
 
 * [1010 Studio](https://www.youtube.com/c/%E6%9D%B1%E8%B0%B7%E6%98%87/videos): very short illustrated stories
+* [しのせんせい](https://www.youtube.com/watch?v=fqFxMNcKUZY): same
 * [Yuzuki Hagi / 萩柚月 朗読ちゃんねる](https://www.youtube.com/channel/UCZN4heVEozSb_SwpDwRMirg/videos): very long illustrated stories
+
+### Vlog
+
+* [FUJIWARA Life](https://www.youtube.com/channel/UCpa-kEaXFILCfIpR3ge4InQ/videos)
+*
+*
+*
 
 ### Other
 
