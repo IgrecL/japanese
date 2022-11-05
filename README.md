@@ -82,7 +82,8 @@ Reading is the best way to learn vocabulary, grammar and kanji at the same time.
 
 * [Manga OCR](https://github.com/kha-white/manga-ocr): great optical character recognition tool
 * [Mokuro](https://github.com/kha-white/mokuro): tool based on Manga OCR, used to turn manga pages into .html files you can look up with Yomichan
-* [Hibiscus](http://read.hibiscus.moe/): .epub online reader implementing vertical reading like in real Japanese books
+* [縦書き頑張ってみるよ](https://addons.mozilla.org/en-US/firefox/addon/%E7%B8%A6%E6%9B%B8%E3%81%8D%E9%A0%91%E5%BC%B5%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B%E3%82%88verticallineviewer/): Firefox addon turn horizontal text into vertical text (like in real Japanese books)
+* [Hibiscus](http://read.hibiscus.moe/): .epub online reader implementing vertical reading
 * [ッツ Ebook Reader](https://ttu-ebook.web.app/manage): same as Hibiscus
 * [Jidoujisho](https://github.com/lrorpilla/jidoujisho): Android app to read books and manga with Yomichan-like translation, also with Anki integration (and a lot of other things)
 
@@ -169,6 +170,7 @@ Audiobooks and podcasts are for more advanced learners. Having a visual support 
 * [jpdb.io](https://jpdb.io/): gives an estimation of the level needed to read/watch given works
 * [Kanji Frequency](https://scriptin.github.io/kanji-frequency/): kanji usage frequency
 * [Aozora Bunko stats](https://core6000.neocities.org/aozora/): number of kanji needed to read Aozora Bunko novels
+  * you need to know 7744 to be able to read all of them
 
 It's often said that knowing 500 kanji gives you 80% comprehension, 1000 kanji 95% comprehension and 2000 kanji 98% comprehension. Even though 95% sounds like a lot, it still means that you don't understand 1 word out of 20 (more or less according to the level of what you are reading). These texts, imitating what happens when reading a Japanese text with those 3 levels of kanji, help understand the importance of learning them:
 
@@ -179,4 +181,3 @@ It's often said that knowing 500 kanji gives you 80% comprehension, 1000 kanji 9
 * [TheMoeWay](https://learnjapanese.moe/): in-depth explanations of Anki and Yomichan, plus other tools
 * [Animecards](https://animecards.site/): how to link Yomichan and Anki, and other useful information
 * [Tatsumoto's Guide](https://tatsumoto.neocities.org/blog/resources.html): very rich, Linux oriented
-* [Kaisai-ben Guide](https://itazuraneko.neocities.org/horon/hougen/osakabenmain.html): if you go to Kansai 
