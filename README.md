@@ -83,7 +83,7 @@ A beginner may start with a bilingual dictionary, such as JMdict (English) Alter
 However, you should switch to monolingual dictionaries as soon as possible, because it helps understanding nuances and forces you not to rely on another language. See [here](https://learnjapanese.moe/monolingual/) for a more detailed explanation.
 
 My config file for Yomichan can be found in this repository.<br>
-The dictionaries I use are in thee [Dictionaries folder](https://github.com/IgrecL/Japanese-Learning-Resources/tree/main/Dictionaries). (other dictionaries can be found [here](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH))
+The dictionaries I use are in the [Dictionaries folder](https://github.com/IgrecL/Japanese-Learning-Resources/tree/main/Dictionaries). (other dictionaries can be found [here](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH))
 
 The priority order of monolingual dictionaries I use is:
 1. 旺文社国語辞典 第十一版 画像無し: concise and very simple definitions
