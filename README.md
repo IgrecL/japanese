@@ -2,6 +2,32 @@
 The best free tools and resources that I personally use to learn Japanese.<br>
 [Click here](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Ranking.md) to see a list of the specific works I read/watched, ranked by how hard they are to understand.
 
+## Table of contents
+
+* [Introduction](https://github.com/IgrecL/Japanese-Learning-Resources#Introduction)
+   * [Fundamental tools](https://github.com/IgrecL/Japanese-Learning-Resources#Fundamental-tools)
+   * [Reading & listening material](https://github.com/IgrecL/Japanese-Learning-Resources#Reading--listening-material)
+   * [Kanji](https://github.com/IgrecL/Japanese-Learning-Resources#Kanji)
+   * [Grammar](https://github.com/IgrecL/Japanese-Learning-Resources#Grammar)
+   * [Dictionaries](https://github.com/IgrecL/Japanese-Learning-Resources#Dictionaries)
+   * [Yomichan](https://github.com/IgrecL/Japanese-Learning-Resources#Yomichan)
+* [① Learning by reading](https://github.com/IgrecL/Japanese-Learning-Resources#-Learning-by-reading)
+   * [Tools](https://github.com/IgrecL/Japanese-Learning-Resources#Tools)
+   * [Manga](https://github.com/IgrecL/Japanese-Learning-Resources#Manga)
+   * [Books](https://github.com/IgrecL/Japanese-Learning-Resources#Books)
+* [② Learning by watching videos](https://github.com/IgrecL/Japanese-Learning-Resources#-Learning-by-watching-videos)
+   * [Tools](https://github.com/IgrecL/Japanese-Learning-Resources#Tools-1)
+   * [Subtitles](https://github.com/IgrecL/Japanese-Learning-Resources#Subtitles)
+   * [Streaming](https://github.com/IgrecL/Japanese-Learning-Resources#Streaming)
+   * [TV](https://github.com/IgrecL/Japanese-Learning-Resources#TV)
+   * [YouTube](https://github.com/IgrecL/Japanese-Learning-Resources#YouTube)
+* [③ Other ways to learn](https://github.com/IgrecL/Japanese-Learning-Resources#-Other-ways-to-learn)
+   * [Games](https://github.com/IgrecL/Japanese-Learning-Resources#Games)
+   * [Audiobooks](https://github.com/IgrecL/Japanese-Learning-Resources#Audiobooks)
+* [Miscellaneous](https://github.com/IgrecL/Japanese-Learning-Resources#Miscellaneous)
+   * [Statistics](https://github.com/IgrecL/Japanese-Learning-Resources#Statistics)
+   * [Other useful guides](https://github.com/IgrecL/Japanese-Learning-Resources#Other-useful-guideds)
+
 ## Introduction
 
 ### Fundamental tools 
@@ -65,7 +91,7 @@ The priority order of monolingual dictionaries I use:
 5. 精選版 日本国語大辞典: the biggest Japanese dictionary in existence (fallback dictionary)
 
 
-## ① Learning through reading
+## ① Learning by reading
 
 ### Tools 
 
@@ -98,7 +124,7 @@ I recommend having an English translation of the book you're reading, alongside 
 * [Imperial Library](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/): if Z-Lib is down [tor]
 
 
-## ② Learning through listening
+## ② Learning by watching videos
 
 ### Tools
 
@@ -142,7 +168,7 @@ Watching Youtube videos is a good way to learn japanese, but finding interesting
 * see [Youtube.md](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Youtube.md) for a list of interesting Youtube channels
 
 
-## ③ Other ways
+## ③ Other ways to learn
 
 ### Games 
 
@@ -159,7 +185,10 @@ Audiobooks and podcasts are for more advanced learners. Having a visual support 
 
 * [Itazuraneko](https://itazuraneko.neocities.org/library/onsei.html): I don't listen to audiobooks but Itazuraneko has a lot
 
-## Random statistics
+
+## Miscellaneous
+
+### Statistics
 
 * [jpdb.io](https://jpdb.io/): gives an estimation of the level needed to read/watch given works
 * [Kanji Frequency](https://scriptin.github.io/kanji-frequency/): kanji usage frequency
@@ -170,7 +199,7 @@ It's often said that knowing 500 kanji gives you 80% comprehension, 1000 kanji 9
 
 <img src="https://user-images.githubusercontent.com/99618877/197379723-6cd3247a-a380-4049-aa05-078d9627253a.jpg" width="300">
 
-## Other useful guides
+### Other useful guides
 
 * [TheMoeWay](https://learnjapanese.moe/): in-depth explanations of Anki and Yomichan, plus other tools
 * [Animecards](https://animecards.site/): how to link Yomichan and Anki, and other useful information
