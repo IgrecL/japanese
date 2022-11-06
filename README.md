@@ -26,7 +26,7 @@ The best free tools and resources that I personally use to learn Japanese.<br>
    * [Audiobooks](https://github.com/IgrecL/Japanese-Learning-Resources#Audiobooks)
 * [Miscellaneous](https://github.com/IgrecL/Japanese-Learning-Resources#Miscellaneous)
    * [Statistics](https://github.com/IgrecL/Japanese-Learning-Resources#Statistics)
-   * [Other useful guides](https://github.com/IgrecL/Japanese-Learning-Resources#Other-useful-guideds)
+   * [Other useful guides](https://github.com/IgrecL/Japanese-Learning-Resources#Other-useful-guides)
 
 ## Introduction
 
