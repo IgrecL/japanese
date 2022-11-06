@@ -1,6 +1,7 @@
 # Japanese Learning Resources
 The best free tools and resources that I personally use to learn Japanese.<br>
-[Click here](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Ranking.md) to see a list of the specific works I read/watched, ranked by how hard they are to understand.
+* [Here](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Ranking.md) is a list of the specific works I read/watched/played, ranked by how hard they are to understand
+* [Here](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Youtube.md) is a list of Japanese YouTube channels I recommend
 
 ## Table of contents
 
@@ -10,7 +11,7 @@ The best free tools and resources that I personally use to learn Japanese.<br>
    * [Kanji](https://github.com/IgrecL/Japanese-Learning-Resources#Kanji)
    * [Grammar](https://github.com/IgrecL/Japanese-Learning-Resources#Grammar)
    * [Dictionaries](https://github.com/IgrecL/Japanese-Learning-Resources#Dictionaries)
-   * [Yomichan](https://github.com/IgrecL/Japanese-Learning-Resources#Yomichan)
+   * [Yomichan settings](https://github.com/IgrecL/Japanese-Learning-Resources#Yomichan-settings)
 * [① Learning by reading](https://github.com/IgrecL/Japanese-Learning-Resources#-Learning-by-reading)
    * [Tools](https://github.com/IgrecL/Japanese-Learning-Resources#Tools)
    * [Manga](https://github.com/IgrecL/Japanese-Learning-Resources#Manga)
@@ -42,7 +43,7 @@ Most of the tools mentioned here can be used with Yomichan and Anki to create ef
 
 ### Reading & listening material
 
-More specific categories will be details in sections 2 to 5, but you can find most of what you're looking for on these websites:
+More specific categories will be details later, but you can find most of what you're looking for on these websites:
 
 * [Itazuraneko](https://itazuraneko.neocities.org/library/librarymain.html): richest source of immersion material (not updated anymore :/)
 * [Nyaa](https://nyaa.si/): biggest torrent site for anime, manga, light novels and dramas
@@ -54,14 +55,13 @@ Different learning approaches exist, and all of them have their drawbacks. My ta
 
 * [WaniKani](https://ankiweb.net/shared/info/1609000301): famous method of learning based on mnemonics (for beginners)
 * [RTK (Remembering The Kanji)](https://mega.nz/folder/SkUABA5Q#4DT43HxP5vZi1pVq44_TVQ): more agressive method (but probably faster)
-* [Kanji Damage](https://www.kanjidamage.com/): learning kanji with yo mama jokes
 * [Kanji no Yomi](https://github.com/IgrecL/KanjiNoYomi) : a tool I created to review kanji on'yomi
 
 ### Grammar
 
 Famous Japanese grammar books aimed at foreigners (Minna no Nihongo, Genki, etc.) teach Japanese grammar in a weird order in my opinion. I would say that learning grammar combining different guides is the best way to understand it completely (and of course immersion).
 
-* [Tae Kim's Guide](https://guidetojapanese.org/learn/grammar): highly regarder free guide
+* [Tae Kim's Guide](https://guidetojapanese.org/learn/grammar): highly regarded free guide
 * [Minna no Nihongo](https://learnjapaneseaz.com/vocabulary-for-minna-no-nihongo-1.html): book often used in Japanese class all around the world
 * [GENKI](https://genki3.japantimes.co.jp/en/): another famous grammar book
 
@@ -75,15 +75,17 @@ Buying a physical Japanese dictionary isn't really necessary; a lot of great dic
 * [日仏辞典](https://www.dictionnaire-japonais.com/): Japanese-French dictionary
 * [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/search/): pitch accent dictionary (advanced)
 
-### Yomichan
+### Yomichan settings
 
-A beginner has to start with a bilingual dictionary, such as JMdict (English) Alternate.<br>
+See [this guide](https://learnjapanese.moe/yomichan/) for a setup tutorial. 
+
+A beginner may start with a bilingual dictionary, such as JMdict (English) Alternate.<br>
 However, you should switch to monolingual dictionaries as soon as possible, because it helps understanding nuances and forces you not to rely on another language. See [here](https://learnjapanese.moe/monolingual/) for a more detailed explanation.
 
 My config file for Yomichan can be found in this repository.<br>
-The dictionaries I use are in ["Dictionaries" folder](https://github.com/IgrecL/Japanese-Learning-Resources/tree/main/Dictionaries). (other dictionaries can be found [here](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH))
+The dictionaries I use are in thee [Dictionaries folder](https://github.com/IgrecL/Japanese-Learning-Resources/tree/main/Dictionaries). (other dictionaries can be found [here](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH))
 
-The priority order of monolingual dictionaries I use:
+The priority order of monolingual dictionaries I use is:
 1. 旺文社国語辞典 第十一版 画像無し: concise and very simple definitions
 2. 明鏡国語辞典: simple definitions too
 3. 大辞林 第三版: contains many entries and remains quite simple
@@ -108,14 +110,14 @@ Reading is the best way to learn vocabulary, grammar and kanji at the same time.
 
 ### Manga
 
-Manga are pretty hard to read at first, because sentences are shorts and sometime use very specific vocabulary.
+Manga can be hard to read at first, because sentences are short and sometime use very specific vocabulary.
 
 * [Itazuraneko Manga](https://itazuraneko.neocities.org/library/manga.html): a lot of raw manga
-* [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi): you can bulk download japanes manga through Tachiyomi and export them to your computer afterwards
+* [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi): you can bulk download Japanesee manga through Tachiyomi and export them to your computer afterwards
 
 ### Books
 
-In my opinion, reading books is the best way of enhancing your understanding of Japanese grammar and discovering a lot of words. Unlike reading manga, you don't get extra information from the drawings, and the sentences are more advanced and formal. The good news is that books are pretty easy to find.<br>
+In my opinion, reading books is the best way to enhance your understanding of Japanese grammar and discover new words. Unlike reading manga, you don't get extra information from the drawings, and the sentences are more advanced and formal. The good news is that books are pretty easy to find.<br>
 I recommend having an English translation of the book you're reading, alongside the Japanese version. Advanced Japanese syntax can be quite confusing, and you may think you understood the meaning of a sentence when in reality you mistook a grammatical form for another.
 
 * [Aozora Bunko](https://mega.nz/file/QIgWWLZI#HA5saYu51Gu6h23VLbysIMJ9Lms-RV5EIa19Q8kXApU): ~15,000 royalty-free Aozora Bunko books
@@ -165,7 +167,7 @@ I rarely watch TV but there are lots of way to do it.
 
 Watching Youtube videos is a good way to learn japanese, but finding interesting channels can be hard.
 
-* see [Youtube.md](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Youtube.md) for a list of interesting Youtube channels
+* see [Youtube.md](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Youtube.md) for a list of YouTube channels I recommend
 
 
 ## ③ Other ways to learn
