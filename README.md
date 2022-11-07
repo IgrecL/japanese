@@ -77,7 +77,7 @@ Buying a physical Japanese dictionary isn't really necessary; a lot of great dic
 
 ### Yomichan settings
 
-See [this guide](https://learnjapanese.moe/yomichan/) for a setup tutorial. 
+See [this guide](https://tatsumoto-ren.github.io/blog/setting-up-yomichan.html) for a setup tutorial. 
 
 A beginner may start with a bilingual dictionary, such as JMdict (English) Alternate.<br>
 However, you should switch to monolingual dictionaries as soon as possible, because it helps understanding nuances and forces you not to rely on another language. See [here](https://learnjapanese.moe/monolingual/) for a more detailed explanation.
