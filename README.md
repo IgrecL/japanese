@@ -89,8 +89,9 @@ The priority order of monolingual dictionaries I use is:
 1. 旺文社国語辞典 第十一版 画像無し: concise and very simple definitions
 2. 明鏡国語辞典: simple definitions too
 3. 大辞林 第三版: contains many entries and remains quite simple
-4. 実用日本語表現辞典: for expressions
+4. 実用日本語表現辞典: dictionary for expressions (is displayed first in this case since the entry is larger)
 5. 精選版 日本国語大辞典: the biggest Japanese dictionary in existence (fallback dictionary)
+6. 漢字遣い参考: (not a real dictionary) useful when you encounter words such as 思うつぼ but your dictionaries only know its full kanji form 思う壷 (in which case 漢字遣い参考's entry would be first to appear and you'd just have to use Yomichan on it)
 
 
 ## ① Learning by reading
