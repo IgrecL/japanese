@@ -5,7 +5,7 @@ I don't like videos with synthetic text-to-speech (which is pretty common in Jap
 
 ## English channels about learning Japanese
 
-* [Matt vT Japan](https://www.youtube.com/c/MATTvsJapan): how to learn efficiently and what tools to use
+* [Matt vs Japan](https://www.youtube.com/c/MATTvsJapan): how to learn efficiently and what tools to use
 * [Dogen](https://www.youtube.com/user/Dogen/videos): in-depth explanations on tricky subjects such as pitch accent
 
 ## Japanese channels
