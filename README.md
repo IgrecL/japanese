@@ -126,6 +126,12 @@ I recommend having an English translation of the book you're reading, alongside 
 * [Z-Lib](https://z-lib.org/): biggest online library (not only Japanese)
 * [Imperial Library](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/): if Z-Lib is down [tor]
 
+### E-Reader
+
+If you want to read books on an e-reader such as Kobo, you can add this custom html dictionary created from JMdict: [Kobo Dictionary](https://perm.cessen.com/2022/kobo_dictionary/)<br>
+Note that you need to be comfortable with reading Japanese without a dictionary if you want to read on an e-reader: looking up words takes a lot more time than on PC, and you won't be able to create Anki cards.
+
+
 
 ## ② Learning by watching videos
 
