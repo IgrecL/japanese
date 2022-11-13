@@ -201,6 +201,7 @@ Audiobooks and podcasts are for more advanced learners. Having a visual support 
 
 * [jpdb.io](https://jpdb.io/): gives an estimation of the level needed to read/watch given works
 * [Kanji Frequency](https://scriptin.github.io/kanji-frequency/): kanji usage frequency
+* [On'yomi Frequency](http://funbit.info/kanji/readings/on_table_by_freq.html): on'yomi ordered by frequency among tōyō kanji
 * [Aozora Bunko stats](https://core6000.neocities.org/aozora/): number of kanji needed to read Aozora Bunko novels
   * you need to know 7744 to be able to read all of them
 
