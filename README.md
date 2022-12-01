@@ -93,6 +93,9 @@ The priority order of monolingual dictionaries I use is:
 5. 精選版 日本国語大辞典: the biggest Japanese dictionary in existence (fallback dictionary)
 6. 漢字遣い参考: (not a real dictionary) useful when you encounter words such as 思うつぼ but your dictionaries only know its full kanji form 思う壷 (in which case 漢字遣い参考's entry would be first to appear and you'd just have to use Yomichan on it)
 
+I also use the BCCJW-LUW frequency dictionary with Yomichan, so that I can learn my Anki cards in order of frequency.<br>
+It's based on a corpus of 100,000,000 words and I find it more accurate than the other frequency dictionaries.
+
 
 ## ① Learning by reading
 
