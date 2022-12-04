@@ -27,7 +27,7 @@ Keep in mind that the number of kanji depends on the length of the text. However
 | [キッチン<br>Kitchen](https://yonde.itazuraneko.org/novelhtml/23917.html) | 吉本ばなな | 1988 | 70,000字 | ★★☆☆☆ | ★☆☆☆☆ | 21字/sent | Jōyō : 1047字<br>Other : 28字 | ✓
 | [ＮＨＫにようこそ！<br>NHK ni Yōkoso!](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu000526/satu000526.html) | 滝本竜彦 | 2002 | 110,000字 | ★★☆☆☆ | ★★☆☆☆ | 22字/sent | Jōyō : 1418字<br>Other : 238字 | ✗
 | [三日間の幸福<br>Mikkakan no Kōfuku](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu003446/satu003446.html) | 三秋縋 | 2013 | 110,000字 | ★★☆☆☆ | ★★☆☆☆ | 30字/sent | Jōyō : 1315字<br>Other : 223字 | ✓
-| [女生徒<br>Joseito](https://www.aozora.gr.jp/cards/000035/files/275_13903.html) | 太宰治 | 1939 | 25,000字 | ★★★☆☆ | ★★☆☆☆ | 30字/sent | Jōyō : 916字<br>Other : 128字 | ...
+| [女生徒<br>Joseito](https://www.aozora.gr.jp/cards/000035/files/275_13903.html) | 太宰治 | 1939 | 25,000字 | ★★★☆☆ | ★★☆☆☆ | 30字/sent | Jōyō : 916字<br>Other : 128字 | ✓
 
 ### Short stories
 
