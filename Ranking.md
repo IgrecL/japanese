@@ -33,7 +33,7 @@ Keep in mind that the number of kanji depends on the length of the text. However
 
 | Title | Author | Year | Length | Syntax | Vocab | Sentence | Individual kanji | ▢
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-| [ムーンライト・シャドウ<br>Moonlight Shadow](https://yonde.itazuraneko.org/novelhtml/23917.html) | 吉本ばなな | 1988 | 20,000字 | ★★☆☆☆ | ★☆☆☆☆ | 21字/sent | Jōyō : 666字<br>Other : 20字 | ...
+| [ムーンライト・シャドウ<br>Moonlight Shadow](https://yonde.itazuraneko.org/novelhtml/23917.html) | 吉本ばなな | 1988 | 20,000字 | ★★☆☆☆ | ★☆☆☆☆ | 21字/sent | Jōyō : 666字<br>Other : 20字 | ✓
 | [人間椅子<br>Ningen Isu](https://www.aozora.gr.jp/cards/001779/files/56648_58207.html) | 江戸川乱歩 | 1925 | 13,372字 | ? | ? | 46字/sent. | Jōyō : 768字<br>Other : 106字 | ...
 | [蜘蛛の糸<br>Kumo no Ito](https://www.aozora.gr.jp/cards/000879/files/92_14545.html) | 芥川龍之介 | 1918 | 2,500字 | ★★★☆☆ | ★★☆☆☆ | 46字/sent. | Jōyō : 209字<br>Other : 30字 | ✓
 
