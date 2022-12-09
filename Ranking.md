@@ -28,13 +28,13 @@ Keep in mind that the number of kanji depends on the length of the text. However
 | [ＮＨＫにようこそ！<br>NHK ni Yōkoso!](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu000526/satu000526.html) | 滝本竜彦 | 2002 | 110,000字 | ★★☆☆☆ | ★★☆☆☆ | 22字/sent | Jōyō : 1418字<br>Other : 238字 | ✗
 | [三日間の幸福<br>Mikkakan no Kōfuku](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu003446/satu003446.html) | 三秋縋 | 2013 | 110,000字 | ★★☆☆☆ | ★★☆☆☆ | 30字/sent | Jōyō : 1315字<br>Other : 223字 | ✓
 | [女生徒<br>Joseito](https://www.aozora.gr.jp/cards/000035/files/275_13903.html) | 太宰治 | 1939 | 25,000字 | ★★★☆☆ | ★★☆☆☆ | 30字/sent | Jōyō : 916字<br>Other : 128字 | ✓
+| [雪国<br>Yukiguni](https://en.wikipedia.org/wiki/Snow_Country) | 川端康成 | 1948 | 70,000字 | ? | ? | 36字/sent | Jōyō : 1206字<br>Other : 329字 | ...
 
 ### Short stories
 
 | Title | Author | Year | Length | Syntax | Vocab | Sentence | Individual kanji | ▢
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 | [ムーンライト・シャドウ<br>Moonlight Shadow](https://yonde.itazuraneko.org/novelhtml/23917.html) | 吉本ばなな | 1988 | 20,000字 | ★★☆☆☆ | ★☆☆☆☆ | 21字/sent | Jōyō : 666字<br>Other : 20字 | ✓
-| [人間椅子<br>Ningen Isu](https://www.aozora.gr.jp/cards/001779/files/56648_58207.html) | 江戸川乱歩 | 1925 | 13,372字 | ? | ? | 46字/sent. | Jōyō : 768字<br>Other : 106字 | ...
 | [蜘蛛の糸<br>Kumo no Ito](https://www.aozora.gr.jp/cards/000879/files/92_14545.html) | 芥川龍之介 | 1918 | 2,500字 | ★★★☆☆ | ★★☆☆☆ | 46字/sent. | Jōyō : 209字<br>Other : 30字 | ✓
 
 ### Anime/Series
