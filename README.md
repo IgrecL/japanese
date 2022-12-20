@@ -1,7 +1,6 @@
 # Japanese Learning Resources
 The best free tools and resources that I personally use to learn Japanese.<br>
-* [Here](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Ranking.md) is a list of the specific works I read/watched/played, ranked by how hard they are to understand
-* [Here](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Youtube.md) is a list of Japanese YouTube channels I recommend
+[Here](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Ranking.md) is a list of the specific works I read/watched/played, ranked by how hard they are to understand
 
 ## Table of contents
 
@@ -12,6 +11,7 @@ The best free tools and resources that I personally use to learn Japanese.<br>
    * [Grammar](https://github.com/IgrecL/Japanese-Learning-Resources#Grammar)
    * [Dictionaries](https://github.com/IgrecL/Japanese-Learning-Resources#Dictionaries)
    * [Yomichan settings](https://github.com/IgrecL/Japanese-Learning-Resources#Yomichan-settings)
+   * [Optimisations](https://github.com/IgrecL/Japanese-Learning-Resources#Optimisations)
 * [① Learning by reading](https://github.com/IgrecL/Japanese-Learning-Resources#-Learning-by-reading)
    * [Tools](https://github.com/IgrecL/Japanese-Learning-Resources#Tools)
    * [Manga](https://github.com/IgrecL/Japanese-Learning-Resources#Manga)
@@ -54,7 +54,7 @@ The importance of learning kanji is often underestimated. Japanese grammar highl
 Different learning approaches exist, and all of them have their drawbacks. My take on kanji is that learning them independantly is useful at first, but it soon becomes a waste of time; I learned them mainly through immersion.
 
 * [WaniKani](https://ankiweb.net/shared/info/1609000301): famous method of learning based on mnemonics (for beginners)
-* [RTK (Remembering The Kanji)](https://mega.nz/folder/SkUABA5Q#4DT43HxP5vZi1pVq44_TVQ): more agressive method (but probably faster)
+* [RTK (Remembering The Kanji)](https://mega.nz/folder/SkUABA5Q#4DT43HxP5vZi1pVq44_TVQ): another famous method but with a really weird order
 * [Kanji no Yomi](https://github.com/IgrecL/KanjiNoYomi): a tool I created to review kanji on'yomi
 
 ### Grammar
@@ -95,6 +95,31 @@ The priority order of monolingual dictionaries I use is:
 
 I also use the BCCJW-LUW frequency dictionary with Yomichan, so that I can learn my Anki cards in order of frequency.<br>
 It's based on a corpus of 100,000,000 words and I find it more accurate than the other frequency dictionaries.
+
+### Optimisations
+
+Adding furigana to Japanese fields can be automated with the [AJT Furigana](https://github.com/Ajatt-Tools/Furigana) addon : you have to create temporary fields that contain the sentences without furigana, and then configure the source/destination fields in AJT Furigana parameters.<br>
+Once configured correctly, AJT Furigana will generate the furigana fields upon new card creation.<br>
+<img src="https://user-images.githubusercontent.com/99618877/208629873-460ad796-15fa-427c-aa72-3cb2b8f2bbee.png" width="200"><br>
+
+The next step towards automation when using a monolingual dictionary is deleting the first line of the definition entry extracted by Yomichan from the Japanese dictionaries. As you can see here, the first line にほん‐ご【日本語】is hardcoded inside the definition, so it cannot be achieved without the following trick.<br>
+<img src="https://user-images.githubusercontent.com/99618877/208631563-8566757c-cd68-4f9c-8faf-e563dcfa1938.png" width="500">
+<img src="https://user-images.githubusercontent.com/99618877/208632803-b376eb13-4e41-4a68-a2a1-b0a02013a004.png" width="500">
+<br>
+
+My solution here is directly changing the way Yomichan interprets the dictionary entry.<br>
+To do so you have to edit the [Handlebars.js](https://handlebarsjs.com/guide/) code in the "Configure Anki card templates..." section of Yomichan parameters (Advanced mode needs to be switched on)<br>
+This can be done using the regexReplace segment to delete everything until the first newline and the newline itself.
+```
+{{~#*inline "glossary"~}}
+    {{~#scope~}}
+        {{~#if (op "===" definition.type "term")~}}
+            {{#regexReplace "^[^<br>]+<br>" ""}}
+                {{~> glossary-single definition brief=true noDictionaryTag=true ~}}
+            {{/regexReplace}}
+```
+Result:
+![image](https://user-images.githubusercontent.com/99618877/208634851-1588fc58-506b-4d25-a689-d3e3a6b4cff8.png)
 
 
 ## ① Learning by reading
@@ -177,7 +202,7 @@ I rarely watch TV but there are lots of way to do it.
 
 Watching Youtube videos is a good way to learn japanese, but finding interesting channels can be hard.
 
-* see [Youtube.md](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Youtube.md) for a list of YouTube channels I recommend
+* see [Youtube.md](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Youtube.md) for a list of YouTube channels I found
 
 
 ## ③ Other ways to learn
@@ -191,9 +216,9 @@ There aren't any tools like Mokuro or Mpvacious for games (of course), but it do
 * [Emulators on Arch](https://wiki.archlinux.org/title/Video_game_platform_emulators#Nintendo): for Arch users
 * [VNs on Arch](https://wiki.archlinux.org/title/List_of_games#Visual_novels): I don't play VNs but yeah
 
-### Audiobooks
+### Audiobooks/podcasts
 
-Audiobooks and podcasts are for more advanced learners. Having a visual support is easier for learning.
+Audiobooks and podcasts are for more advanced learners, but you can find a lot of them on Spotify or other platforms. Having a visual support is easier for learning.
 
 * [Itazuraneko](https://itazuraneko.neocities.org/library/onsei.html): I don't listen to audiobooks but Itazuraneko has a lot
 
