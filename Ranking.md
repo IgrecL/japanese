@@ -3,15 +3,6 @@
 List of works I read/watched, organized by categories and ranked from easiest to hardest (compared to other works of the same category).<br>
 Last column indicates if I finished it or not (some of them are very long)
 
-### Manga
-
-| Title | Author | Year | Length | Difficulty | Furigana |▢
-| :---: | :---: | :---: | :---: | :---: | :---: | :---:
-| [よつばと!<br>Yotsuba&!](https://anilist.co/manga/30104/) | あずまきよひこ | 2003 | 15券 | ★☆☆☆☆ | YES | ✗
-| [古見さん<br>Komi-san](https://anilist.co/manga/97852/) | オダトモヒト | 2016 | 27券+ | ★★☆☆☆ | YES | ✗
-| [アリア<br>ARIA](https://anilist.co/manga/30081/ARIA/) | 天野こずえ | 2002 | 12券 | ★★☆☆☆ | YES | ...
-| [秘密の果実<br>Himitsu no Kajitsu](https://anilist.co/manga/116835/) | 朱井よしお | 2019 | 3券 | ★★☆☆☆ | YES | ✗
-
 ### Novels
 
 The statistics are generated using my [Toukei](https://github.com/IgrecL/Toukei) script.<br>
@@ -50,6 +41,15 @@ Keep in mind that the number of kanji depends on the length of the text. However
 | [ぼっち・ざ・ろっく！<br>Bocchi the Rock](https://anilist.co/anime/130003/) | 2022 | 12話 | ★★☆☆☆ | ...
 | [デュラララ!!<br>Durarara!! S1](https://anilist.co/anime/6746/) | 2010 | 24話 | ★★☆☆☆ | ✓
 | [ささみさん<br>Sasami-san](https://anilist.co/anime/14515/) | 2013 | 12話 | ★★★☆☆ | ✓
+
+### Manga
+
+| Title | Author | Year | Length | Difficulty | Furigana |▢
+| :---: | :---: | :---: | :---: | :---: | :---: | :---:
+| [よつばと!<br>Yotsuba&!](https://anilist.co/manga/30104/) | あずまきよひこ | 2003 | 15券 | ★☆☆☆☆ | YES | ✗
+| [古見さん<br>Komi-san](https://anilist.co/manga/97852/) | オダトモヒト | 2016 | 27券+ | ★★☆☆☆ | YES | ✗
+| [アリア<br>ARIA](https://anilist.co/manga/30081/ARIA/) | 天野こずえ | 2002 | 12券 | ★★☆☆☆ | YES | ...
+| [秘密の果実<br>Himitsu no Kajitsu](https://anilist.co/manga/116835/) | 朱井よしお | 2019 | 3券 | ★★☆☆☆ | YES | ✗
 
 ### Games
 
