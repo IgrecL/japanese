@@ -24,8 +24,9 @@ The best free tools and resources that I personally use to learn Japanese.<br>
    * [YouTube](https://github.com/IgrecL/Japanese-Learning-Resources#YouTube)
 * [③ Other ways to learn](https://github.com/IgrecL/Japanese-Learning-Resources#-Other-ways-to-learn)
    * [Games](https://github.com/IgrecL/Japanese-Learning-Resources#Games)
-   * [Audiobooks](https://github.com/IgrecL/Japanese-Learning-Resources#Audiobooks)
+   * [Audiobooks/podcasts](https://github.com/IgrecL/Japanese-Learning-Resources#Audiobookspodcasts)
 * [Miscellaneous](https://github.com/IgrecL/Japanese-Learning-Resources#Miscellaneous)
+   * [My opinion](https://github.com/IgrecL/Japanese-Learning-Resources#My-opinion)
    * [Statistics](https://github.com/IgrecL/Japanese-Learning-Resources#Statistics)
    * [Other useful guides](https://github.com/IgrecL/Japanese-Learning-Resources#Other-useful-guides)
 
@@ -224,6 +225,17 @@ Audiobooks and podcasts are for more advanced learners, but you can find a lot o
 
 
 ## Miscellaneous
+
+### My opinion
+
+I learned Japanese in high school with real classes but started reading books and watching anime in Japanese as soon as I could.<br>
+My take on studying Japanese effectively is that you have to go through a grammar/vocabulary learning phase at first, until you can read around 800 kanji and have the equivalent vocabulary (level 20-25 if you are doing WaniKani for example). Most importantly, in order to understand what you are reading/watching, you have to learn Japanese grammar, because unlike with vocabulary Yomichan can't really help you with it. Tae Kim's Guide is probably the best choice, but if you are using Minna no Nihongo I'd say that the first volume (lessons 1 to 25) is enough for immersion.
+
+There are many strong advocates of passive immersion and the idea that you don't have to understand what you are reading/watching to progress. I think that they are partly right since I myself didn't understand everything when I read my first Japanese book (Kino no Tabi), but in my opinion it's counterproductive if you can't understand most of it. For me, you progress the most when you read/watch something that's slightly harder than your current level. Not too easy or it'll be useless, and not too hard or it'll be a hassle. Japanese learners often forget the importance of enjoying what you're doing: reading an easy book is better than struggling to read a harder one if it motivates you more and makes you practice more.
+
+Once you get to an intermediate level, I think it's even useful to focus on every little detail you don't understand in a book you could roughly understand without bothering about it, in a perspective of perfecting your Japanese abilities. I also think that books are the best format when it comes to learning a language. There's a wide range of difficulty in the literature, and reading forces you to rely only on the language itself since you have no outside context. I read a lot before switching to watching shows, and it helped a lot.
+
+Finally, I'm one of those who think that Anki is a great tool but that it shouldn't be an end in itself: immersion is way more important. I only use Anki 20 to 30 minutes a day, and I stopped doing decks like WaniKani because mining decks are way better at this point. Switching to monolingual dictionaries is also a turning point in the Japanese learning journey, so I recommend doing it as soon as it seems possible. I couldn't understand most of the definitions at first, but after seeing a lot of them, it became possible.
 
 ### Statistics
 
