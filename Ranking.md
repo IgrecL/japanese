@@ -37,9 +37,9 @@ Keep in mind that the number of kanji depends on the length of the text. However
 | [ワンピース<br>One Piece](https://anilist.co/anime/21/ONE-PIECE/) | 1999 | 1000話+ | ★☆☆☆☆ | ✗
 | [幸腹グラフィティ<br>Kōfuku no Graffiti](https://anilist.co/anime/20744/) | 2015 | 12話 | ★★☆☆☆ | ✓
 | [ヲタクに恋は難しい<br>Wotakoi](https://anilist.co/anime/99578/) | 2018 | 12話 | ★★☆☆☆ | ✓
-| [このすば<br>Konosuba](https://anilist.co/anime/21202/) | 2016 | 20話+ | ★★☆☆☆ | ✗
 | [ぼっち・ざ・ろっく！<br>Bocchi the Rock](https://anilist.co/anime/130003/) | 2022 | 12話 | ★★☆☆☆ | ✓
 | [デュラララ!!<br>Durarara!! S1](https://anilist.co/anime/6746/) | 2010 | 24話 | ★★☆☆☆ | ✓
+| [このすば<br>Konosuba S1](https://anilist.co/anime/21202/) | 2016 | 20話+ | ★★☆☆☆ | ✓
 | [ささみさん<br>Sasami-san](https://anilist.co/anime/14515/) | 2013 | 12話 | ★★★☆☆ | ✓
 | [トライガン<br>Trigun](https://anilist.co/anime/6/TRIGUN/) | 1998 | 26話 | ★★★☆☆ | ...
 
