@@ -32,15 +32,16 @@ Keep in mind that the number of kanji depends on the length of the text. However
 
 | Title | Year | Difficulty | Vocab | ▢
 | :---: | :---: | :---: | :---: | :---:
-| [幸腹グラフィティ<br>Kōfuku no Graffiti](https://anilist.co/anime/20744/) | 2015 | 12話 | ★☆☆☆☆ | ✓
 | [テラスハウス<br>Terrace House](https://en.wikipedia.org/wiki/Terrace_House) | 2012 | 500話+ | ★☆☆☆☆ | ...
 | [宇宙よりも遠い場所<br>Sora yori mo Tōi Basho](https://anilist.co/anime/99426/) | 2018 | 13話 | ★☆☆☆☆ | ✓
 | [ワンピース<br>One Piece](https://anilist.co/anime/21/ONE-PIECE/) | 1999 | 1000話+ | ★☆☆☆☆ | ✗
+| [幸腹グラフィティ<br>Kōfuku no Graffiti](https://anilist.co/anime/20744/) | 2015 | 12話 | ★★☆☆☆ | ✓
 | [ヲタクに恋は難しい<br>Wotakoi](https://anilist.co/anime/99578/) | 2018 | 12話 | ★★☆☆☆ | ✓
 | [このすば<br>Konosuba](https://anilist.co/anime/21202/) | 2016 | 20話+ | ★★☆☆☆ | ✗
-| [ぼっち・ざ・ろっく！<br>Bocchi the Rock](https://anilist.co/anime/130003/) | 2022 | 12話 | ★★☆☆☆ | ...
+| [ぼっち・ざ・ろっく！<br>Bocchi the Rock](https://anilist.co/anime/130003/) | 2022 | 12話 | ★★☆☆☆ | ✓
 | [デュラララ!!<br>Durarara!! S1](https://anilist.co/anime/6746/) | 2010 | 24話 | ★★☆☆☆ | ✓
 | [ささみさん<br>Sasami-san](https://anilist.co/anime/14515/) | 2013 | 12話 | ★★★☆☆ | ✓
+| [トライガン<br>Trigun](https://anilist.co/anime/6/TRIGUN/)) | 1998 | 26話 | ★★★☆☆ | ...
 
 ### Manga
 
