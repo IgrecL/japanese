@@ -41,7 +41,7 @@ Keep in mind that the number of kanji depends on the length of the text. However
 | [ぼっち・ざ・ろっく！<br>Bocchi the Rock](https://anilist.co/anime/130003/) | 2022 | 12話 | ★★☆☆☆ | ✓
 | [デュラララ!!<br>Durarara!! S1](https://anilist.co/anime/6746/) | 2010 | 24話 | ★★☆☆☆ | ✓
 | [ささみさん<br>Sasami-san](https://anilist.co/anime/14515/) | 2013 | 12話 | ★★★☆☆ | ✓
-| [トライガン<br>Trigun](https://anilist.co/anime/6/TRIGUN/)) | 1998 | 26話 | ★★★☆☆ | ...
+| [トライガン<br>Trigun](https://anilist.co/anime/6/TRIGUN/) | 1998 | 26話 | ★★★☆☆ | ...
 
 ### Manga
 
