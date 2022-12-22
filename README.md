@@ -147,6 +147,7 @@ You can set up MPV and Yomichan to generate vocab Anki cards with the context se
    * [Mpvacious](https://github.com/Ajatt-Tools/mpvacious): use Yomichan on video subtitles and create Anki cards (if you are on Wayland you'll need wl-clipboard)
    * [Sub-transition](https://github.com/Ajatt-Tools/sub-transition): speed up a video when there are no subtitles on screen
    * [Autosync-mpv](https://github.com/Ajatt-Tools/autosubsync-mpv): automatically sync a subtitles file to the audio
+   * [Videoclip](https://github.com/Ajatt-Tools/videoclip): create video clips
 * [Jidoujisho](https://github.com/lrorpilla/jidoujisho): can also be used to watch videos with translatable subtitles and Anki integration on your phone
 
 ### Subtitles
