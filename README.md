@@ -1,34 +1,32 @@
 # Japanese Learning Resources
-The best free tools and resources that I personally use to learn Japanese.<br>
-[Here](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Ranking.md) is a list of the specific works I read/watched/played, ranked by how hard they are to understand
+
+Immersion is key and you can make it really efficient with the following tools and resources.<br>
+[Here](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Ranking.md) is a list of the specific works I read/watched/played, ranked by how hard they are to understand.<br>
 
 ## Table of contents
 
 * [Introduction](https://github.com/IgrecL/Japanese-Learning-Resources#Introduction)
    * [Fundamental tools](https://github.com/IgrecL/Japanese-Learning-Resources#Fundamental-tools)
    * [Reading & listening material](https://github.com/IgrecL/Japanese-Learning-Resources#Reading--listening-material)
-   * [Kanji](https://github.com/IgrecL/Japanese-Learning-Resources#Kanji)
-   * [Grammar](https://github.com/IgrecL/Japanese-Learning-Resources#Grammar)
+   * [Kanji & grammar](https://github.com/IgrecL/Japanese-Learning-Resources#Kanji--grammar)
    * [Dictionaries](https://github.com/IgrecL/Japanese-Learning-Resources#Dictionaries)
-   * [Yomichan settings](https://github.com/IgrecL/Japanese-Learning-Resources#Yomichan-settings)
-   * [Optimisations](https://github.com/IgrecL/Japanese-Learning-Resources#Optimisations)
-* [① Learning by reading](https://github.com/IgrecL/Japanese-Learning-Resources#-Learning-by-reading)
+   * [Monolingual transition](https://github.com/IgrecL/Japanese-Learning-Resources#Monolingual-transition)
+* [① Learning through reading](https://github.com/IgrecL/Japanese-Learning-Resources#-Learning-through-reading)
    * [Tools](https://github.com/IgrecL/Japanese-Learning-Resources#Tools)
    * [Manga](https://github.com/IgrecL/Japanese-Learning-Resources#Manga)
    * [Books](https://github.com/IgrecL/Japanese-Learning-Resources#Books)
-* [② Learning by watching videos](https://github.com/IgrecL/Japanese-Learning-Resources#-Learning-by-watching-videos)
+* [② Learning through listening](https://github.com/IgrecL/Japanese-Learning-Resources#-Learning-through-listening)
    * [Tools](https://github.com/IgrecL/Japanese-Learning-Resources#Tools-1)
    * [Subtitles](https://github.com/IgrecL/Japanese-Learning-Resources#Subtitles)
-   * [Streaming](https://github.com/IgrecL/Japanese-Learning-Resources#Streaming)
-   * [TV](https://github.com/IgrecL/Japanese-Learning-Resources#TV)
-   * [YouTube](https://github.com/IgrecL/Japanese-Learning-Resources#YouTube)
-* [③ Other ways to learn](https://github.com/IgrecL/Japanese-Learning-Resources#-Other-ways-to-learn)
+   * [Streaming & TV](https://github.com/IgrecL/Japanese-Learning-Resources#Streaming--TV)
+   * [YouTube & podcasts](https://github.com/IgrecL/Japanese-Learning-Resources#YouTube--podcasts)
+* [Other ways to learn](https://github.com/IgrecL/Japanese-Learning-Resources#Other-ways-to-learn)
    * [Games](https://github.com/IgrecL/Japanese-Learning-Resources#Games)
-   * [Audiobooks/podcasts](https://github.com/IgrecL/Japanese-Learning-Resources#Audiobookspodcasts)
 * [Miscellaneous](https://github.com/IgrecL/Japanese-Learning-Resources#Miscellaneous)
-   * [My opinion](https://github.com/IgrecL/Japanese-Learning-Resources#My-opinion)
    * [Statistics](https://github.com/IgrecL/Japanese-Learning-Resources#Statistics)
    * [Other useful guides](https://github.com/IgrecL/Japanese-Learning-Resources#Other-useful-guides)
+
+
 
 ## Introduction
 
@@ -40,6 +38,7 @@ Most of the tools mentioned here can be used with Yomichan and Anki to create ef
   * useful Anki addons: [AJT Furigana](https://github.com/Ajatt-Tools/Furigana) and [PitchAccent](https://github.com/Ajatt-Tools/PitchAccent)
 * [Yomichan](https://addons.mozilla.org/en-US/firefox/addon/yomichan/): web browser extension for translating unknown words in web pages
   * it can be linked to Anki with AnkiConnect to generate flashcards of the words you can't read (see [here](https://animecards.site/yomichansetup/))
+  * see [this guide](https://tatsumoto-ren.github.io/blog/setting-up-yomichan.html) for a setup tutorial. 
   * can be used to read books since .epub ebooks contain .html files
 
 ### Reading & listening material
@@ -49,7 +48,9 @@ More specific categories will be details later, but you can find most of what yo
 * [Itazuraneko](https://itazuraneko.neocities.org/library/librarymain.html): richest source of immersion material (not updated anymore :/)
 * [Nyaa](https://nyaa.si/): biggest torrent site for anime, manga, light novels and dramas
 
-### Kanji
+### Kanji & learning
+
+Before starting to read books and watch shows in Japanese, you need a decent understanding of kanji and Japanese grammar. Some people recommend learning the 1000 most used kanji and the corresponding vocabulary before immersing, but at the end of the day it really depends on the difficulty of the first thing you're going to read/watch, and I think it can be done earlier with enough determination.
 
 The importance of learning kanji is often underestimated. Japanese grammar highly depends on the way kanji interact, and without them you won't be able to read or watch anything.<br>
 Different learning approaches exist, and all of them have their drawbacks. My take on kanji is that learning them independantly is useful at first, but it soon becomes a waste of time; I learned them mainly through immersion.
@@ -58,9 +59,7 @@ Different learning approaches exist, and all of them have their drawbacks. My ta
 * [RTK (Remembering The Kanji)](https://mega.nz/folder/SkUABA5Q#4DT43HxP5vZi1pVq44_TVQ): another famous method but with a really weird order
 * [Kanji no Yomi](https://github.com/IgrecL/KanjiNoYomi): a tool I created to review kanji on'yomi
 
-### Grammar
-
-Famous Japanese grammar books aimed at foreigners (Minna no Nihongo, Genki, etc.) teach Japanese grammar in a weird order in my opinion. I would say that learning grammar combining different guides is the best way to understand it completely (and of course immersion).
+Even more important than learning kanji is understanding how Japanese is structured. Famous Japanese grammar books aimed at foreigners (Minna no Nihongo, Genki, etc.) teach Japanese grammar in a weird order in my opinion. I would say that learning grammar combining different guides is the best way to understand it completely (and of course immersion).
 
 * [Tae Kim's Guide](https://guidetojapanese.org/learn/grammar): highly regarded free guide
 * [Minna no Nihongo](https://learnjapaneseaz.com/vocabulary-for-minna-no-nihongo-1.html): book often used in Japanese class all around the world
@@ -76,15 +75,15 @@ Buying a physical Japanese dictionary isn't really necessary; a lot of great dic
 * [日仏辞典](https://www.dictionnaire-japonais.com/): Japanese-French dictionary
 * [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/search/): pitch accent dictionary (advanced)
 
-### Yomichan settings
+### Monolingual transition
 
-See [this guide](https://tatsumoto-ren.github.io/blog/setting-up-yomichan.html) for a setup tutorial. 
-
-A beginner may start with a bilingual dictionary, such as JMdict (English) Alternate.<br>
-However, you should switch to monolingual dictionaries as soon as possible, because it helps understanding nuances and forces you not to rely on another language. See [here](https://learnjapanese.moe/monolingual/) for a more detailed explanation.
+A beginner should start with a bilingual dictionary, such as JMdict (English) Alternate, but it's not the best way to learn new vocabulary.<br>
+Switching to monolingual dictionaries with Yomichan is also a turning point in the Japanese learning journey, so I recommend doing it as soon as it seems possible. I couldn't understand most of the definitions at first, but after seeing a lot of them, it became possible.<br>
+Going monolingual helps understanding nuances and forces you not to rely on another language. See [here](https://learnjapanese.moe/monolingual/) for a more detailed explanation.
 
 My config file for Yomichan can be found in this repository.<br>
-The dictionaries I use are in the [Dictionaries folder](https://github.com/IgrecL/Japanese-Learning-Resources/tree/main/Dictionaries). (other dictionaries can be found [here](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH))
+The dictionaries I use are in the [Dictionaries folder](https://github.com/IgrecL/Japanese-Learning-Resources/tree/main/Dictionaries) (other dictionaries can be found [here](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH)).<br>
+See [Monolingual.md](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Podcasts.md) for advanced Yomichan customisation (automated creation of Anki cards with furigana and cropped monolingual dictionary definition).
 
 The priority order of monolingual dictionaries I use is:
 1. 旺文社国語辞典 第十一版 画像無し: concise and very simple definitions
@@ -97,33 +96,9 @@ The priority order of monolingual dictionaries I use is:
 I also use the BCCJW-LUW frequency dictionary with Yomichan, so that I can learn my Anki cards in order of frequency.<br>
 It's based on a corpus of 100,000,000 words and I find it more accurate than the other frequency dictionaries.
 
-### Optimisations
-
-Adding furigana to Japanese fields can be automated with the [AJT Furigana](https://github.com/Ajatt-Tools/Furigana) addon : you have to create temporary fields that contain the sentences without furigana, and then configure the source/destination fields in AJT Furigana parameters.<br>
-Once configured correctly, AJT Furigana will generate the furigana fields upon new card creation.<br>
-<img src="https://user-images.githubusercontent.com/99618877/208629873-460ad796-15fa-427c-aa72-3cb2b8f2bbee.png" width="200"><br>
-
-The next step towards automation when using a monolingual dictionary is deleting the first line of the definition entry extracted by Yomichan from the Japanese dictionaries. As you can see here, the first line にほん‐ご【日本語】is hardcoded inside the definition, so it cannot be achieved without the following trick.<br>
-<img src="https://user-images.githubusercontent.com/99618877/208631563-8566757c-cd68-4f9c-8faf-e563dcfa1938.png" width="500">
-<img src="https://user-images.githubusercontent.com/99618877/208632803-b376eb13-4e41-4a68-a2a1-b0a02013a004.png" width="500">
-<br>
-
-My solution here is directly changing the way Yomichan interprets the dictionary entry.<br>
-To do so you have to edit the [Handlebars.js](https://handlebarsjs.com/guide/) code in the "Configure Anki card templates..." section of Yomichan parameters (Advanced mode needs to be switched on)<br>
-This can be done using the regexReplace segment to delete everything until the first newline and the newline itself.
-```
-{{~#*inline "glossary"~}}
-    {{~#scope~}}
-        {{~#if (op "===" definition.type "term")~}}
-            {{#regexReplace "^[^<br>]+<br>" ""}}
-                {{~> glossary-single definition brief=true noDictionaryTag=true ~}}
-            {{/regexReplace}}
-```
-Result:
-![image](https://user-images.githubusercontent.com/99618877/208634851-1588fc58-506b-4d25-a689-d3e3a6b4cff8.png)
 
 
-## ① Learning by reading
+## ① Learning through reading
 
 ### Tools 
 
@@ -143,7 +118,7 @@ Reading is the best way to learn vocabulary, grammar and kanji at the same time.
 Manga can be hard to read at first, because sentences are short and sometime use very specific vocabulary.
 
 * [Itazuraneko Manga](https://itazuraneko.neocities.org/library/manga.html): a lot of raw manga
-* [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi): you can bulk download Japanesee manga through Tachiyomi and export them to your computer afterwards
+* [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi): you can bulk download Japanese manga through Tachiyomi and export them to your computer afterwards
 
 ### Books
 
@@ -155,24 +130,24 @@ I recommend having an English translation of the book you're reading, alongside 
 * [Z-Lib](https://z-lib.org/): biggest online library (not only Japanese)
 * [Imperial Library](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/): if Z-Lib is down [tor]
 
-### E-Reader
-
-If you want to read books on an e-reader such as Kobo, you can add this custom html dictionary created from JMdict: [Kobo Dictionary](https://perm.cessen.com/2022/kobo_dictionary/)<br>
+If you want to read books on an **e-reader** such as Kobo, you can add this custom html dictionary created from JMdict: [Kobo Dictionary](https://perm.cessen.com/2022/kobo_dictionary/)<br>
 Note that you need to be comfortable with reading Japanese without a dictionary if you want to read on an e-reader: looking up words takes a lot more time than on PC, and you won't be able to create Anki cards.
 
 
 
-## ② Learning by watching videos
+## ② Learning through
 
 ### Tools
 
-You can set up mpvacious and Yomichan to generate vocab Anki cards with the context sentence, both in Japanese and translated in English, with the audio of the line, a screenshot of the scene and a definition of the word (or a translation)
+You can set up MPV and Yomichan to generate vocab Anki cards with the context sentence, both in Japanese and translated in English, with the audio of the line, a screenshot of the scene and a definition of the word (or a translation)
 
 [Example.webm](https://user-images.githubusercontent.com/99618877/197393339-cc4f94df-75bc-49ce-9fde-dc6f3a49e084.webm)
 
-* [Mpvacious](https://github.com/Ajatt-Tools/mpvacious): mpv extension to use Yomichan on video subtitles, with Anki integration
-  * if you are on Wayland you'll need wl-clipboard
-* [Jidoujisho](https://github.com/lrorpilla/jidoujisho): can also be used to watch videos with translatable subtitles and Anki integration
+* [MPV](https://mpv.io/): the best media player when it comes to customisation; you can really enhance your immersion setup with the following addons (courtesy of the [AJATT community](https://github.com/Ajatt-Tools))
+   * [Mpvacious](https://github.com/Ajatt-Tools/mpvacious): use Yomichan on video subtitles and create Anki cards (if you are on Wayland you'll need wl-clipboard)
+   * [Sub-transition](https://github.com/Ajatt-Tools/sub-transition): speed up a video when there are no subtitles on screen
+   * [Autosync-mpv](https://github.com/Ajatt-Tools/autosubsync-mpv): automatically sync a subtitles file to the audio
+* [Jidoujisho](https://github.com/lrorpilla/jidoujisho): can also be used to watch videos with translatable subtitles and Anki integration on your phone
 
 ### Subtitles
 
@@ -181,32 +156,33 @@ Japanese subtitles for specific shows can be really hard to find or even unavail
 * [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F): updated collection
 * [Itazuraneko Subtitles](https://itazuraneko.neocities.org/library/sub.html): old but very rich collection
 * [Tatsumoto's List](https://gist.github.com/tatsumoto-ren/78ba4e5b7c53c7ed2c987015fa05cc2b): list of subtitles collections (Tatsumoto's Guide)
-* [Netflix](https://mega.nz/folder/2H4CFQYR#bd9LHl9VOqdT3crrJa0Axw): very long list of subtitles ripped from Netflix
 * [Japanese Movies](https://github.com/eurusdagr/Japanese-Movies-Subtitles): subtitles for Japanese movies, ordered by directors
 
-### Streaming
+### Streaming & TV
 
 I personally never use streaming websites for learning. Downloading what you consume makes learning easier, as you can use all kinds of tools that only work on files on your computer. However, I used to do so at first, so here are the best ones I found for anime:
 
 * [Animelon](https://animelon.com/): Japanese and English subtitles available
 * [Zoro.to](https://zoro.to/): you can turn off the English subtitles, but no Japanese subs
 
-### TV
-
-I rarely watch TV but there are lots of way to do it.
+I rarely watch TV online but there are lots of way to do it:
 
 * [AS Stream](https://aqstream.com/): simply watch TV
 * [jp.m3u](https://raw.githubusercontent.com/gadabao/iptv-org-iptv/gh-pages/countries/jp.m3u): playlist of channels you can open in mpv
 * [News24](https://github.com/tatsumoto-ren/dotfiles/blob/main/.local/share/applications/news24.desktop): watch news through mpv
 
-### Youtube
+### Youtube & podcast
 
-Watching Youtube videos is a good way to learn japanese, but finding interesting channels can be hard.
+Watching Youtube videos is a good way to learn japanese, but finding interesting channels can be hard.<br>
+Audiobooks and podcasts are for more advanced learners, but you can find a lot of them on Spotify or other platforms. Having a visual support is easier for learning.
 
-* see [Youtube.md](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Youtube.md) for a list of YouTube channels I found
+* [Youtube.md](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Youtube.md): a list of good YouTube channels
+* [Podcasts.md](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Podcasts.md): a list of Spotify podcasts I recommend
+* [Itazuraneko](https://itazuraneko.neocities.org/library/onsei.html): I don't listen to audiobooks but Itazuraneko has a lot
 
 
-## ③ Other ways to learn
+
+## Other ways to learn
 
 ### Games 
 
@@ -217,25 +193,9 @@ There aren't any tools like Mokuro or Mpvacious for games (of course), but it do
 * [Emulators on Arch](https://wiki.archlinux.org/title/Video_game_platform_emulators#Nintendo): for Arch users
 * [VNs on Arch](https://wiki.archlinux.org/title/List_of_games#Visual_novels): I don't play VNs but yeah
 
-### Audiobooks/podcasts
-
-Audiobooks and podcasts are for more advanced learners, but you can find a lot of them on Spotify or other platforms. Having a visual support is easier for learning.
-
-* [Itazuraneko](https://itazuraneko.neocities.org/library/onsei.html): I don't listen to audiobooks but Itazuraneko has a lot
 
 
 ## Miscellaneous
-
-### My opinion
-
-I learned Japanese in high school with real classes but started reading books and watching anime in Japanese as soon as I could.<br>
-My take on studying Japanese effectively is that you have to go through a grammar/vocabulary learning phase at first, until you can read around 800 kanji and have the equivalent vocabulary (level 20-25 if you are doing WaniKani for example). Most importantly, in order to understand what you are reading/watching, you have to learn Japanese grammar, because unlike with vocabulary Yomichan can't really help you with it. Tae Kim's Guide is probably the best choice, but if you are using Minna no Nihongo I'd say that the first volume (lessons 1 to 25) is enough for immersion.
-
-There are many strong advocates of passive immersion and the idea that you don't have to understand what you are reading/watching to progress. I think that they are partly right since I myself didn't understand everything when I read my first Japanese book (Kino no Tabi), but in my opinion it's counterproductive if you can't understand most of it. For me, you progress the most when you read/watch something that's slightly harder than your current level. Not too easy or it'll be useless, and not too hard or it'll be a hassle. Japanese learners often forget the importance of enjoying what you're doing: reading an easy book is better than struggling to read a harder one if it motivates you more and makes you practice more.
-
-Once you get to an intermediate level, I think it's even useful to focus on every little detail you don't understand in a book you could roughly understand without bothering about it, in a perspective of perfecting your Japanese abilities. I also think that books are the best format when it comes to learning a language. There's a wide range of difficulty in the literature, and reading forces you to rely only on the language itself since you have no outside context. I read a lot before switching to watching shows, and it helped a lot.
-
-Finally, I'm one of those who think that Anki is a great tool but that it shouldn't be an end in itself: immersion is way more important. I only use Anki 20 to 30 minutes a day, and I stopped doing decks like WaniKani because mining decks are way better at this point. Switching to monolingual dictionaries is also a turning point in the Japanese learning journey, so I recommend doing it as soon as it seems possible. I couldn't understand most of the definitions at first, but after seeing a lot of them, it became possible.
 
 ### Statistics
 
