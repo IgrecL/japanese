@@ -1,6 +1,6 @@
 # Japanese Youtube Channels
 
-This page is a personnal selection of YouTubee Japanese channels, most of the time with subtitles available.<br>
+This page is a personal selection of YouTubee Japanese channels, most of the time with subtitles available.<br>
 I don't like videos with synthetic text-to-speech (which is pretty common in Japanese viedos) and/or anime-like stories so they aren't any channel like this here.
 
 ## English channels about learning Japanese
