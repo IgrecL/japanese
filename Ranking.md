@@ -43,6 +43,8 @@ Keep in mind that the number of kanji depends on the length of the text. However
 | [ささみさん<br>Sasami-san](https://anilist.co/anime/14515/) | 2013 | 12話 | ★★★☆☆ | ✓
 | [トライガン<br>Trigun](https://anilist.co/anime/6/TRIGUN/) | 1998 | 26話 | ★★★☆☆ | ...
 
+NB: in Trigun there's a character who speaks Kansai-ben so it can be hard if you don't know the differences 
+
 ### Manga
 
 | Title | Author | Year | Length | Difficulty | Furigana |▢
