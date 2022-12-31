@@ -159,6 +159,12 @@ Japanese subtitles for specific shows can be really hard to find or even unavail
 * [Tatsumoto's List](https://gist.github.com/tatsumoto-ren/78ba4e5b7c53c7ed2c987015fa05cc2b): list of subtitles collections (Tatsumoto's Guide)
 * [Japanese Movies](https://github.com/eurusdagr/Japanese-Movies-Subtitles): subtitles for Japanese movies, ordered by directors
 
+Whisper AI can be used to generate fairly good subtitles, but you need to use medium/large models, which can take a long time.<br>
+Use this only if you already have a good understanding of spoken Japanese.
+
+* [Whisper AI](https://github.com/openai/whisper): open-source transcription AI
+* [FreeSubtitles.AI](https://freesubtitles.ai/): free transcription service powered by Whisper AI
+
 ### Streaming & TV
 
 I personally never use streaming websites for learning. Downloading what you consume makes learning easier, as you can use all kinds of tools that only work on files on your computer. However, I used to do so at first, so here are the best ones I found for anime:
