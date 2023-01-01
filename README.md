@@ -135,7 +135,7 @@ Note that you need to be comfortable with reading Japanese without a dictionary 
 
 
 
-## ② Learning through
+## ② Learning through listening
 
 ### Tools
 
