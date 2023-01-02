@@ -173,7 +173,7 @@ AJATTers like to listen again to what they already watched, so they created tool
 However, a lot of subtitles in Japanese media are used to describe background sounds or people screaming (like ああ or （大きい物音ー）), so I made another script to clean .srt files, which reduces the audio file by another 3-5 minutes most of the time.
 
 * [impd](https://github.com/Ajatt-Tools/impd): a script that generates audio files containing only the lines
-* [subcleaner}(https://github.com/IgrecL/SubCleaner): a Python script I made to clean .srt files for condensed audios
+* [subcleaner](https://github.com/IgrecL/SubCleaner): a Python script I made to clean .srt files for condensed audios
 
 ### Streaming & TV
 
