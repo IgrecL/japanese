@@ -16,9 +16,11 @@ This can be done using the regexReplace segment to delete everything until the f
 {{~#*inline "glossary"~}}
     {{~#scope~}}
         {{~#if (op "===" definition.type "term")~}}
-            {{#regexReplace "^[^<br>]+<br>" ""}}
+            {{#regexReplace "^[^<br>]+<br>|「.{1,10}」|（.{1,20}）" ""}}
                 {{~> glossary-single definition brief=true noDictionaryTag=true ~}}
             {{/regexReplace}}
 ```
+It also deletes the「」and（）brackets, which are used to specify the word class and give examples, but I don't find them useful.
+
 Result:
 ![image](https://user-images.githubusercontent.com/99618877/208634851-1588fc58-506b-4d25-a689-d3e3a6b4cff8.png)
