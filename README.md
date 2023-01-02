@@ -18,6 +18,7 @@ Immersion is key and you can make it really efficient with the following tools a
 * [② Learning through listening](https://github.com/IgrecL/Japanese-Learning-Resources#-Learning-through-listening)
    * [Tools](https://github.com/IgrecL/Japanese-Learning-Resources#Tools-1)
    * [Subtitles](https://github.com/IgrecL/Japanese-Learning-Resources#Subtitles)
+   * [Condensed audio](https://github.com/IgrecL/Japanese-Learning-Resources#Condensed-audio)
    * [Streaming & TV](https://github.com/IgrecL/Japanese-Learning-Resources#Streaming--TV)
    * [YouTube & podcasts](https://github.com/IgrecL/Japanese-Learning-Resources#YouTube--podcasts)
 * [Other ways to learn](https://github.com/IgrecL/Japanese-Learning-Resources#Other-ways-to-learn)
@@ -164,6 +165,15 @@ Use this only if you already have a good understanding of spoken Japanese.
 
 * [Whisper AI](https://github.com/openai/whisper): open-source transcription AI
 * [FreeSubtitles.AI](https://freesubtitles.ai/): free transcription service powered by Whisper AI
+
+### Condensed audio
+
+AJATTers like to listen again to what they already watched, so they created tools to cut the silences in a video and output an audio file with only the spoken lines. The goal of condensed audios is to optimize immersion time, by listening to them when you're commuting or doing something else.
+
+However, a lot of subtitles in Japanese media are used to describe background sounds or people screaming (like ああ or （大きい物音ー）), so I made another script to clean .srt files, which reduces the audio file by another 3-5 minutes most of the time.
+
+* [impd](https://github.com/Ajatt-Tools/impd): a script that generates audio files containing only the lines
+* [subcleaner}(https://github.com/IgrecL/SubCleaner): a Python script I made to clean .srt files for condensed audios
 
 ### Streaming & TV
 
