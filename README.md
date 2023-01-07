@@ -25,6 +25,7 @@ Immersion is key and you can make it really efficient with the following tools a
    * [Games](https://github.com/IgrecL/Japanese-Learning-Resources#Games)
 * [Miscellaneous](https://github.com/IgrecL/Japanese-Learning-Resources#Miscellaneous)
    * [Statistics](https://github.com/IgrecL/Japanese-Learning-Resources#Statistics)
+   * [Advanced customization](https://github.com/IgrecL/Japanese-Learning-Resources#Advanced-customization)
    * [Other useful guides](https://github.com/IgrecL/Japanese-Learning-Resources#Other-useful-guides)
 
 
@@ -74,6 +75,7 @@ Buying a physical Japanese dictionary isn't really necessary; a lot of great dic
 * [Wiktionary](https://en.wiktionary.org/): very detailed information for kanji lookup
 * [JapanDict](https://www.japandict.com/): dictionary and details on kanji
 * [日仏辞典](https://www.dictionnaire-japonais.com/): Japanese-French dictionary
+* [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto): Android Japanese dictionary
 * [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/search/): pitch accent dictionary (advanced)
 
 ### Monolingual transition
@@ -225,6 +227,11 @@ There aren't any tools like Mokuro or Mpvacious for games (of course), but it do
 It's often said that knowing 500 kanji gives you 80% comprehension, 1000 kanji 95% comprehension and 2000 kanji 98% comprehension. Even though 95% sounds like a lot, it still means that you don't understand 1 word out of 20 (more or less according to the level of what you are reading). These texts, imitating what happens when reading a Japanese text with those 3 levels of kanji, help understand the importance of learning them:
 
 <img src="https://user-images.githubusercontent.com/99618877/197379723-6cd3247a-a380-4049-aa05-078d9627253a.jpg" width="300">
+
+### Advanced customization
+
+* [Auto sorting by frequency & image blur](https://github.com/MarvNC/JP-Resources#sorting-mined-anki-cards-by-frequency)
+* [Yomichan CSS and Handlebars.js config](https://aquafina-water-bottle.github.io/jp-mining-note/jpresources/)
 
 ### Other useful guides
 
