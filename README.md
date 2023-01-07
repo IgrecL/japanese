@@ -26,6 +26,7 @@ Immersion is key and you can make it really efficient with the following tools a
 * [Miscellaneous](https://github.com/IgrecL/Japanese-Learning-Resources#Miscellaneous)
    * [Statistics](https://github.com/IgrecL/Japanese-Learning-Resources#Statistics)
    * [Advanced customization](https://github.com/IgrecL/Japanese-Learning-Resources#Advanced-customization)
+   * [Level Check](https://github.com/IgrecL/Japanese-Learning-Resources#Level-check)
    * [Other useful guides](https://github.com/IgrecL/Japanese-Learning-Resources#Other-useful-guides)
 
 
@@ -232,6 +233,11 @@ It's often said that knowing 500 kanji gives you 80% comprehension, 1000 kanji 9
 
 * [Auto sorting by frequency & image blur](https://github.com/MarvNC/JP-Resources#sorting-mined-anki-cards-by-frequency)
 * [Yomichan CSS and Handlebars.js config](https://aquafina-water-bottle.github.io/jp-mining-note/jpresources/)
+
+### Level Check
+
+* [MLC Kanji Level Check](https://www.mlcjapanese.co.jp/level_check_kanji.html): estimaes your jōyō kanji knowledge
+* [JLPTCheck Quiz](https://www.jlptcheck.com/): estimates your JLPT level
 
 ### Other useful guides
 
