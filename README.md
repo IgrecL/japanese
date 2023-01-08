@@ -227,6 +227,7 @@ Reading VN is a good way to learn Japanese because they use natural spoken Japan
 ### Statistics
 
 * [jpdb.io](https://jpdb.io/): gives an estimation of the level needed to read/watch given works
+* [Jo Mako's Japanese](https://docs.google.com/spreadsheets/u/0/d/1ukDIWSkh_xvpppPbgs1nUR2kaEwFaWlsJgZUlb9LuTs/htmlview#): same
 * [Kanji Frequency](https://scriptin.github.io/kanji-frequency/): kanji usage frequency
 * [On'yomi Frequency](http://funbit.info/kanji/readings/on_table_by_freq.html): on'yomi ordered by frequency among tōyō kanji
 * [Aozora Bunko stats](https://core6000.neocities.org/aozora/): number of kanji needed to read Aozora Bunko novels
