@@ -40,6 +40,7 @@ Most of the tools mentioned here can be used with Yomichan and Anki to create ef
 
 * [Anki](https://ankiweb.net/shared/decks/): spaced repetition flashcards app for learning pretty much anything (vocabulary, sentence mining, grammar, etc.)
   * useful Anki addons: [AJT Furigana](https://github.com/Ajatt-Tools/Furigana) and [PitchAccent](https://github.com/Ajatt-Tools/PitchAccent)
+  * optimize Anki settings: [interval modifier](https://readbroca.com/anki/what-is-anki-interval-modifier/)
 * [Yomichan](https://addons.mozilla.org/en-US/firefox/addon/yomichan/): web browser extension for translating unknown words in web pages
   * it can be linked to Anki with AnkiConnect to generate flashcards of the words you can't read (see [here](https://animecards.site/yomichansetup/))
   * see [this guide](https://tatsumoto-ren.github.io/blog/setting-up-yomichan.html) for a setup tutorial. 
