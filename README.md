@@ -23,6 +23,7 @@ Immersion is key and you can make it really efficient with the following tools a
    * [YouTube & podcasts](https://github.com/IgrecL/Japanese-Learning-Resources#YouTube--podcasts)
 * [Other ways to learn](https://github.com/IgrecL/Japanese-Learning-Resources#Other-ways-to-learn)
    * [Games](https://github.com/IgrecL/Japanese-Learning-Resources#Games)
+   * [Visual Novels](https://github.com/IgrecL/Japanese-Learning-Resources#Visual-novels)
 * [Miscellaneous](https://github.com/IgrecL/Japanese-Learning-Resources#Miscellaneous)
    * [Statistics](https://github.com/IgrecL/Japanese-Learning-Resources#Statistics)
    * [Advanced customization](https://github.com/IgrecL/Japanese-Learning-Resources#Advanced-customization)
@@ -211,8 +212,13 @@ There aren't any tools like Mokuro or Mpvacious for games (of course), but it do
 * [Manga OCR](https://github.com/kha-white/manga-ocr): can also be used on games if you play them on PC (via emulation if not available on PC)
 * [ROMs](https://r-roms.github.io/): mega-thread for ROMs
 * [Emulators on Arch](https://wiki.archlinux.org/title/Video_game_platform_emulators#Nintendo): for Arch users
-* [VNs on Arch](https://wiki.archlinux.org/title/List_of_games#Visual_novels): I don't play VNs but yeah
 
+### Visual Novels
+
+Reading VN is a good way to learn Japanese because they use natural spoken Japanese, in contrast to what you can find in books, and you can rely on the pictures to understand what is going on. In some VNs like Higurashi no Naku Koro ni, there even are audio lines that help you even more.
+
+* [Textractor](https://github.com/Artikash/Textractor/releases): crazy tool which hooks on a function in a VN to output the text written in the game and pastes it in your clipboard so that you can use Yomichan/Anki
+* [VNs on Arch](https://wiki.archlinux.org/title/List_of_games#Visual_novels): honestly it's easier on Windows this time
 
 
 ## Miscellaneous
