@@ -189,7 +189,7 @@ I personally never use streaming websites for learning. Downloading what you con
 
 I rarely watch TV online but there are lots of way to do it:
 
-* [AS Stream](https://aqstream.com/): simply watch TV
+* [AS Stream](https://aqstream.com/jp): simply watch TV
 * [jp.m3u](https://raw.githubusercontent.com/gadabao/iptv-org-iptv/gh-pages/countries/jp.m3u): playlist of channels you can open in mpv
 * [News24](https://github.com/tatsumoto-ren/dotfiles/blob/main/.local/share/applications/news24.desktop): watch news through mpv
 
