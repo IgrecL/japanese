@@ -41,7 +41,7 @@ Keep in mind that the number of kanji depends on the length of the text. However
 | [デュラララ!!<br>Durarara!! S1](https://anilist.co/anime/6746/) | 2010 | 24話 | ★★☆☆☆ | ✓
 | [このすば<br>Konosuba S1](https://anilist.co/anime/21202/) | 2016 | 20話+ | ★★☆☆☆ | ✓
 | [ささみさん<br>Sasami-san](https://anilist.co/anime/14515/) | 2013 | 12話 | ★★★☆☆ | ✓
-| [トライガン<br>Trigun](https://anilist.co/anime/6/TRIGUN/) | 1998 | 26話 | ★★★☆☆ | ...
+| [トライガン<br>Trigun](https://anilist.co/anime/6/TRIGUN/) | 1998 | 26話 | ★★★☆☆ | ✓
 | [トライガン スタンピード<br>Trigun Stampede](https://anilist.co/anime/151040/TRIGUN-STAMPEDE/) | 2023 | ??話 | ★★★☆☆ | ...
 
 NB: in Trigun there's a character who speaks Kansai-ben so it can be hard if you don't know the differences 
