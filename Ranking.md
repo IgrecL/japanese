@@ -18,8 +18,8 @@ Keep in mind that the number of kanji depends on the length of the text. However
 | [キッチン<br>Kitchen](https://yonde.itazuraneko.org/novelhtml/23917.html) | 吉本ばなな | 1988 | 70,000字 | ★★☆☆☆ | 21字/sent | Jōyō : 1047字<br>Other : 28字 | ✓
 | [ＮＨＫにようこそ！<br>NHK ni Yōkoso!](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu000526/satu000526.html) | 滝本竜彦 | 2002 | 110,000字 | ★★☆☆☆ | 22字/sent | Jōyō : 1418字<br>Other : 238字 | ✗
 | [三日間の幸福<br>Mikkakan no Kōfuku](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu003446/satu003446.html) | 三秋縋 | 2013 | 110,000字 | ★★☆☆☆ | 30字/sent | Jōyō : 1315字<br>Other : 223字 | ✓
+| [雪国<br>Yukiguni](https://en.wikipedia.org/wiki/Snow_Country) | 川端康成 | 1948 | 70,000字 | ★★★☆☆ | 36字/sent | Jōyō : 1206字<br>Other : 329字 | ...
 | [女生徒<br>Joseito](https://www.aozora.gr.jp/cards/000035/files/275_13903.html) | 太宰治 | 1939 | 25,000字 | ★★★☆☆ | 30字/sent | Jōyō : 916字<br>Other : 128字 | ✓
-| [雪国<br>Yukiguni](https://en.wikipedia.org/wiki/Snow_Country) | 川端康成 | 1948 | 70,000字 | ? | 36字/sent | Jōyō : 1206字<br>Other : 329字 | ...
 
 ### Short stories
 
@@ -41,8 +41,8 @@ Keep in mind that the number of kanji depends on the length of the text. However
 | [デュラララ!!<br>Durarara!! S1](https://anilist.co/anime/6746/) | 2010 | 24話 | ★★☆☆☆ | ✓
 | [このすば<br>Konosuba S1](https://anilist.co/anime/21202/) | 2016 | 20話+ | ★★☆☆☆ | ✓
 | [ささみさん<br>Sasami-san](https://anilist.co/anime/14515/) | 2013 | 12話 | ★★★☆☆ | ✓
-| [トライガン スタンピード<br>Trigun Stampede](https://anilist.co/anime/151040/TRIGUN-STAMPEDE/) | 2023 | ??話 | ★★★☆☆ | ...
 | [トライガン<br>Trigun](https://anilist.co/anime/6/TRIGUN/) | 1998 | 26話 | ★★★☆☆ | ...
+| [トライガン スタンピード<br>Trigun Stampede](https://anilist.co/anime/151040/TRIGUN-STAMPEDE/) | 2023 | ??話 | ★★★☆☆ | ...
 
 NB: in Trigun there's a character who speaks Kansai-ben so it can be hard if you don't know the differences 
 
@@ -50,7 +50,7 @@ NB: in Trigun there's a character who speaks Kansai-ben so it can be hard if you
 
 | Title | Author | Year | Length | Difficulty | Furigana |▢
 | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-| [よつばと!<br>Yotsuba&!](https://anilist.co/manga/30104/) | あずまきよひこ | 2003 | 15券 | ★☆☆☆☆ | YES | ✗
+| [よつばと!<br>Yotsuba&!](https://anilist.co/manga/30104/) | あずまきよひこ | 2003 | 15券 | ★☆☆☆☆ | YES | ...
 | [古見さん<br>Komi-san](https://anilist.co/manga/97852/) | オダトモヒト | 2016 | 27券+ | ★★☆☆☆ | YES | ✗
 | [アリア<br>ARIA](https://anilist.co/manga/30081/ARIA/) | 天野こずえ | 2002 | 12券 | ★★☆☆☆ | YES | ...
 | [秘密の果実<br>Himitsu no Kajitsu](https://anilist.co/manga/116835/) | 朱井よしお | 2019 | 3券 | ★★☆☆☆ | YES | ✗
