@@ -9,6 +9,7 @@ Some of them are aimed at Japanese learners, others aren't.
 * [Let's learn Japanese from small talk!](https://open.spotify.com/show/1tHH40EmOge2Ale4nlYWTq): two Japanese girls talking about random stuff [30 - 40 min]
 * [日本語の聴解のためのPodcast](https://open.spotify.com/show/2ESvL5DP8bmWNYteJ3McHm): really short podcasts [4 - 7 min]
 * [Momoko To Nihongo (Japanese Listening for Beginners & Intermediates)](https://open.spotify.com/show/4KBEcdMXAQTcLcE86Y0ow9): podcasts for beginners and intermediates [8 - 15 min]
+* [EASY JAPANESE PODCAST Learn Japanese with us!](https://open.spotify.com/show/20cg6ybD2lS2DR7o4QSrCS): conversations [8 - 15 min]
 
 ### Podcasts aimed at a native audience
 
