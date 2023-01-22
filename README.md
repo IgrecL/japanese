@@ -233,7 +233,7 @@ Reading VN is a good way to learn Japanese because they use natural spoken Japan
 * [Aozora Bunko stats](https://core6000.neocities.org/aozora/): number of kanji needed to read Aozora Bunko novels
   * you need to know 7744 to be able to read all of them
 
-It's often said that knowing 500 kanji gives you 80% comprehension, 1000 kanji 95% comprehension and 2000 kanji 98% comprehension. Even though 95% sounds like a lot, it still means that you don't understand 1 word out of 20 (more or less according to the level of what you are reading). These texts, imitating what happens when reading a Japanese text with those 3 levels of kanji, help understand the importance of learning them:
+According to [this study](https://scriptin.github.io/kanji-frequency/), knowing 500 kanji gives you 80% comprehension, 1000 kanji 95% comprehension and 2000 kanji 98% comprehension. Even though 95% sounds like a lot, it still means that you don't understand 1 word out of 20 (more or less according to the level of what you are reading). These texts, imitating what happens when reading a Japanese text with those 3 levels of kanji, help understand the importance of learning them:
 
 <img src="https://user-images.githubusercontent.com/99618877/197379723-6cd3247a-a380-4049-aa05-078d9627253a.jpg" width="300">
 
