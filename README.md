@@ -1,34 +1,34 @@
 # Japanese Learning Resources
 
 Immersion is key and you can make it really efficient with the following tools and resources.<br>
-[Here](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Ranking.md) is a list of the specific works I read/watched/played, ranked by how hard they are to understand.<br>
+[Here](https://github.com/IgrecL/japanese/blob/main/Ranking.md) is a list of the specific works I read/watched/played, ranked by how hard they are to understand.<br>
 
 ## Table of contents
 
-* [Introduction](https://github.com/IgrecL/Japanese-Learning-Resources#Introduction)
-   * [Fundamental tools](https://github.com/IgrecL/Japanese-Learning-Resources#Fundamental-tools)
-   * [Reading & listening material](https://github.com/IgrecL/Japanese-Learning-Resources#Reading--listening-material)
-   * [Kanji & grammar](https://github.com/IgrecL/Japanese-Learning-Resources#Kanji--grammar)
-   * [Dictionaries](https://github.com/IgrecL/Japanese-Learning-Resources#Dictionaries)
-   * [Monolingual transition](https://github.com/IgrecL/Japanese-Learning-Resources#Monolingual-transition)
-* [① Learning through reading](https://github.com/IgrecL/Japanese-Learning-Resources#-Learning-through-reading)
-   * [Tools](https://github.com/IgrecL/Japanese-Learning-Resources#Tools)
-   * [Manga](https://github.com/IgrecL/Japanese-Learning-Resources#Manga)
-   * [Books](https://github.com/IgrecL/Japanese-Learning-Resources#Books)
-* [② Learning through listening](https://github.com/IgrecL/Japanese-Learning-Resources#-Learning-through-listening)
-   * [Tools](https://github.com/IgrecL/Japanese-Learning-Resources#Tools-1)
-   * [Subtitles](https://github.com/IgrecL/Japanese-Learning-Resources#Subtitles)
-   * [Condensed audio](https://github.com/IgrecL/Japanese-Learning-Resources#Condensed-audio)
-   * [Streaming & TV](https://github.com/IgrecL/Japanese-Learning-Resources#Streaming--TV)
-   * [YouTube & podcasts](https://github.com/IgrecL/Japanese-Learning-Resources#YouTube--podcasts)
-* [Other ways to learn](https://github.com/IgrecL/Japanese-Learning-Resources#Other-ways-to-learn)
-   * [Games](https://github.com/IgrecL/Japanese-Learning-Resources#Games)
-   * [Visual Novels](https://github.com/IgrecL/Japanese-Learning-Resources#Visual-novels)
-* [Miscellaneous](https://github.com/IgrecL/Japanese-Learning-Resources#Miscellaneous)
-   * [Statistics](https://github.com/IgrecL/Japanese-Learning-Resources#Statistics)
-   * [Advanced customization](https://github.com/IgrecL/Japanese-Learning-Resources#Advanced-customization)
-   * [Level Check](https://github.com/IgrecL/Japanese-Learning-Resources#Level-check)
-   * [Other useful guides](https://github.com/IgrecL/Japanese-Learning-Resources#Other-useful-guides)
+* [Introduction](https://github.com/IgrecL/japanese#Introduction)
+   * [Fundamental tools](https://github.com/IgrecL/japanese#Fundamental-tools)
+   * [Reading & listening material](https://github.com/IgrecL/japanese#Reading--listening-material)
+   * [Kanji & grammar](https://github.com/IgrecL/japanese#Kanji--grammar)
+   * [Dictionaries](https://github.com/IgrecL/japanese#Dictionaries)
+   * [Monolingual transition](https://github.com/IgrecL/japanese#Monolingual-transition)
+* [① Learning through reading](https://github.com/IgrecL/japanese#-Learning-through-reading)
+   * [Tools](https://github.com/IgrecL/japanese#Tools)
+   * [Manga](https://github.com/IgrecL/japanese#Manga)
+   * [Books](https://github.com/IgrecL/japanese#Books)
+* [② Learning through listening](https://github.com/IgrecL/japanese#-Learning-through-listening)
+   * [Tools](https://github.com/IgrecL/japanese#Tools-1)
+   * [Subtitles](https://github.com/IgrecL/japanese#Subtitles)
+   * [Condensed audio](https://github.com/IgrecL/japanese#Condensed-audio)
+   * [Streaming & TV](https://github.com/IgrecL/japanese#Streaming--TV)
+   * [YouTube & podcasts](https://github.com/IgrecL/japanese#YouTube--podcasts)
+* [Other ways to learn](https://github.com/IgrecL/japanese#Other-ways-to-learn)
+   * [Games](https://github.com/IgrecL/japanese#Games)
+   * [Visual Novels](https://github.com/IgrecL/japanese#Visual-novels)
+* [Miscellaneous](https://github.com/IgrecL/japanese#Miscellaneous)
+   * [Statistics](https://github.com/IgrecL/japanese#Statistics)
+   * [Advanced customization](https://github.com/IgrecL/japanese#Advanced-customization)
+   * [Level Check](https://github.com/IgrecL/japanese#Level-check)
+   * [Other useful guides](https://github.com/IgrecL/japanese#Other-useful-guides)
 
 
 
@@ -88,8 +88,8 @@ Switching to monolingual dictionaries with Yomichan is also a turning point in t
 Going monolingual helps understanding nuances and forces you not to rely on another language. See [here](https://learnjapanese.moe/monolingual/) for a more detailed explanation.
 
 My config file for Yomichan can be found in this repository.<br>
-The dictionaries I use are in the [Dictionaries folder](https://github.com/IgrecL/Japanese-Learning-Resources/tree/main/Dictionaries) (other dictionaries can be found [here](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH)).<br>
-See [Monolingual.md](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Podcasts.md) for advanced Yomichan customisation (automated creation of Anki cards with furigana and cropped monolingual dictionary definition).
+The dictionaries I use are in the [Dictionaries folder](https://github.com/IgrecL/japanese/tree/main/Dictionaries) (other dictionaries can be found [here](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH)).<br>
+See [Monolingual.md](https://github.com/IgrecL/japanese/blob/main/Podcasts.md) for advanced Yomichan customisation (automated creation of Anki cards with furigana and cropped monolingual dictionary definition).
 
 The priority order of monolingual dictionaries I use is:
 1. 旺文社国語辞典 第十一版 画像無し: concise and very simple definitions
@@ -198,8 +198,8 @@ I rarely watch TV online but there are lots of way to do it:
 Watching Youtube videos is a good way to learn japanese, but finding interesting channels can be hard.<br>
 Audiobooks and podcasts are for more advanced learners, but you can find a lot of them on Spotify or other platforms. Having a visual support is easier for learning.
 
-* [Youtube.md](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Youtube.md): a list of good YouTube channels
-* [Podcasts.md](https://github.com/IgrecL/Japanese-Learning-Resources/blob/main/Podcasts.md): a list of Spotify podcasts I recommend
+* [Youtube.md](https://github.com/IgrecL/japanese/blob/main/Youtube.md): a list of good YouTube channels
+* [Podcasts.md](https://github.com/IgrecL/japanese/blob/main/Podcasts.md): a list of Spotify podcasts I recommend
 * [Itazuraneko](https://itazuraneko.neocities.org/library/onsei.html): I don't listen to audiobooks but Itazuraneko has a lot
 
 
