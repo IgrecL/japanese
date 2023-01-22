@@ -62,7 +62,6 @@ Different learning approaches exist, and all of them have their drawbacks. My ta
 
 * [WaniKani](https://ankiweb.net/shared/info/1609000301): famous method of learning based on mnemonics (for beginners)
 * [RTK (Remembering The Kanji)](https://mega.nz/folder/SkUABA5Q#4DT43HxP5vZi1pVq44_TVQ): another famous method but with a really weird order
-* [Kanji no Yomi](https://github.com/IgrecL/KanjiNoYomi): a tool I created to review kanji on'yomi
 
 Even more important than learning kanji is understanding how Japanese is structured. Famous Japanese grammar books aimed at foreigners (Minna no Nihongo, Genki, etc.) teach Japanese grammar in a weird order in my opinion. I would say that learning grammar combining different guides is the best way to understand it completely (and of course immersion).
 
