@@ -58,7 +58,10 @@ NB: in Trigun there's a character who speaks Kansai-ben so it can be hard if you
 
 ### Games
 
-| Title | Year | Difficulty | ▢
-| :---: | :---: | :---: | :---:
-| [レイトン教授と不思議な村<br>Professor Layton and the Curious Village](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%88%E3%83%B3%E6%95%99%E6%8E%88%E3%81%A8%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E7%94%BA) | 2007 | ★☆☆☆☆ | ...
-| [ひぐらしのなく頃に１ 鬼隠し編<br>Higurashi no Naku Koro ni 1 - Onikakushi](https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB) | 2002 | ★★☆☆☆ | ...
+| Title | Year | Difficulty | Length | ▢
+| :---: | :---: | :---: | :---: | :---:
+| [レイトン教授と不思議な村<br>Professor Layton and the Curious Village](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%88%E3%83%B3%E6%95%99%E6%8E%88%E3%81%A8%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E7%94%BA) | 2007 | ★☆☆☆☆ | ? | ✗
+| [ひぐらしのなく頃に１ 鬼隠し編<br>Higurashi no Naku Koro ni 1 - Onikakushi](https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB) | 2002 | ★★★☆☆ | 26h | ✓
+| [ひぐらしのなく頃に２ 綿流し編<br>Higurashi no Naku Koro ni 2 - Watanashi](https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB) | 2002 | ★★★☆☆ | ? | ...
+
+NB: the value in "Length" is the time it took me to finish them (while making Anki cards and everything)
