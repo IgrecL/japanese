@@ -30,9 +30,9 @@ Keep in mind that the number of kanji depends on the length of the text. However
 
 ### Anime/Series
 
-| Title | Year | Difficulty | Vocab | ▢
+| Title | Year | Length | Difficulty | ▢
 | :---: | :---: | :---: | :---: | :---:
-| [テラスハウス<br>Terrace House](https://en.wikipedia.org/wiki/Terrace_House) | 2012 | 500話+ | ★☆☆☆☆ | ...
+| [テラスハウス<br>Terrace House](https://en.wikipedia.org/wiki/Terrace_House) | 2012 | 500話+ | ★☆☆☆☆ | ✗
 | [宇宙よりも遠い場所<br>Sora yori mo Tōi Basho](https://anilist.co/anime/99426/) | 2018 | 13話 | ★☆☆☆☆ | ✓
 | [幸腹グラフィティ<br>Kōfuku no Graffiti](https://anilist.co/anime/20744/) | 2015 | 12話 | ★☆☆☆☆ | ✓
 | [ワンピース<br>One Piece](https://anilist.co/anime/21/ONE-PIECE/) | 1999 | 1000話+ | ★★☆☆☆ | ✗
@@ -42,8 +42,9 @@ Keep in mind that the number of kanji depends on the length of the text. However
 | [このすば<br>Konosuba S1](https://anilist.co/anime/21202/) | 2016 | 20話+ | ★★☆☆☆ | ✓
 | [ささみさん<br>Sasami-san](https://anilist.co/anime/14515/) | 2013 | 12話 | ★★★☆☆ | ✓
 | [トライガン<br>Trigun](https://anilist.co/anime/6/TRIGUN/) | 1998 | 26話 | ★★★☆☆ | ✓
-| [トライガン スタンピード<br>Trigun Stampede](https://anilist.co/anime/151040/TRIGUN-STAMPEDE/) | 2023 | ??話 | ★★★☆☆ | ...
 | [トライガン Badlands Rumble<br>Trigun Badlands Rumble](https://anilist.co/anime/4106/TRIGUN-Badlands-Rumble/) | 2010 | 1h30 | ★★★☆☆ | ✓
+| [トライガン スタンピード<br>Trigun Stampede](https://anilist.co/anime/151040/TRIGUN-STAMPEDE/) | 2023 | ??話 | ★★★☆☆ | ✗
+| [1リットルの涙<br>1 Litre no Namida](https://en.wikipedia.org/wiki/1_Litre_no_Namida_(TV_series)) | 2005 | 11話 (45分) | ★★★☆☆ | ...
 
 NB: in Trigun there's a character who speaks Kansai-ben so it can be hard if you don't know the differences 
 
