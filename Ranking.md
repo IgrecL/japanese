@@ -18,7 +18,7 @@ Keep in mind that the number of kanji depends on the length of the text. However
 | [キッチン<br>Kitchen](https://yonde.itazuraneko.org/novelhtml/23917.html) | 吉本ばなな | 1988 | 70,000字 | ★★☆☆☆ | 21字/sent | Jōyō : 1047字<br>Other : 28字 | ✓
 | [ＮＨＫにようこそ！<br>NHK ni Yōkoso!](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu000526/satu000526.html) | 滝本竜彦 | 2002 | 110,000字 | ★★☆☆☆ | 22字/sent | Jōyō : 1418字<br>Other : 238字 | ✗
 | [三日間の幸福<br>Mikkakan no Kōfuku](https://itazuranekoyomi1.neocities.org/library/shousetu/volume/satu003446/satu003446.html) | 三秋縋 | 2013 | 110,000字 | ★★☆☆☆ | 30字/sent | Jōyō : 1315字<br>Other : 223字 | ✓
-| [雪国<br>Yukiguni](https://en.wikipedia.org/wiki/Snow_Country) | 川端康成 | 1948 | 70,000字 | ★★★☆☆ | 36字/sent | Jōyō : 1206字<br>Other : 329字 | ...
+| [雪国<br>Yukiguni](https://en.wikipedia.org/wiki/Snow_Country) | 川端康成 | 1948 | 70,000字 | ★★★☆☆ | 36字/sent | Jōyō : 1206字<br>Other : 329字 | ✗
 | [女生徒<br>Joseito](https://www.aozora.gr.jp/cards/000035/files/275_13903.html) | 太宰治 | 1939 | 25,000字 | ★★★☆☆ | 30字/sent | Jōyō : 916字<br>Other : 128字 | ✓
 
 ### Short stories
@@ -62,7 +62,8 @@ NB: in Trigun there's a character who speaks Kansai-ben so it can be hard if you
 | Title | Year | Difficulty | Length | ▢
 | :---: | :---: | :---: | :---: | :---:
 | [レイトン教授と不思議な村<br>Professor Layton and the Curious Village](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%88%E3%83%B3%E6%95%99%E6%8E%88%E3%81%A8%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E7%94%BA) | 2007 | ★☆☆☆☆ | ? | ✗
-| [ひぐらしのなく頃に１ 鬼隠し編<br>Higurashi no Naku Koro ni 1 - Onikakushi](https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB) | 2002 | ★★★☆☆ | 26h | ✓
-| [ひぐらしのなく頃に２ 綿流し編<br>Higurashi no Naku Koro ni 2 - Watanashi](https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB) | 2002 | ★★★☆☆ | ? | ...
+| [ひぐらしのなく頃に１ 鬼隠し編<br>Higurashi no Naku Koro ni 1 - Onikakushi](https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB) | 2002 | ★★★☆☆ | 26h00 | ✓
+| [ひぐらしのなく頃に２ 綿流し編<br>Higurashi no Naku Koro ni 2 - Watanashi](https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB) | 2002 | ★★★☆☆ | 29h30 | ✓
+| [ひぐらしのなく頃に２ 祟殺し編<br>Higurashi no Naku Koro ni 3 - Tatarigoroshi](https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB) | 2003 | ★★★☆☆ | ? | ...
 
 NB: the value in "Length" is the time it took me to finish them (while making Anki cards and everything)
