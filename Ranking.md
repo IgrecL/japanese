@@ -45,6 +45,7 @@ Keep in mind that the number of kanji depends on the length of the text. However
 | [トライガン Badlands Rumble<br>Trigun Badlands Rumble](https://anilist.co/anime/4106/TRIGUN-Badlands-Rumble/) | 2010 | 1h30 | ★★★☆☆ | ✓
 | [トライガン スタンピード<br>Trigun Stampede](https://anilist.co/anime/151040/TRIGUN-STAMPEDE/) | 2023 | ??話 | ★★★☆☆ | ✗
 | [1リットルの涙<br>1 Litre no Namida](https://en.wikipedia.org/wiki/1_Litre_no_Namida_(TV_series)) | 2005 | 11話 (45分) | ★★★☆☆ | ...
+| [僕のヒーローアカデミア<br>My Hero Academia S6](https://anilist.co/anime/139630/) | 2022 | 25話 | ★★★★☆ | ✓A
 
 NB: in Trigun there's a character who speaks Kansai-ben so it can be hard if you don't know the differences 
 
