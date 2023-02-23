@@ -10,6 +10,7 @@ Some of them are aimed at Japanese learners, others aren't.
 * [日本語の聴解のためのPodcast](https://open.spotify.com/show/2ESvL5DP8bmWNYteJ3McHm): really short podcasts [4 - 7 min]
 * [Momoko To Nihongo (Japanese Listening for Beginners & Intermediates)](https://open.spotify.com/show/4KBEcdMXAQTcLcE86Y0ow9): podcasts for beginners and intermediates [8 - 15 min]
 * [EASY JAPANESE PODCAST Learn Japanese with us!](https://open.spotify.com/show/20cg6ybD2lS2DR7o4QSrCS): conversations [8 - 15 min]
+* [Japanese podcast for advanced learners 日本語上級者のみなさんへ](https://open.spotify.com/show/4WLrkopMHoiszGCS4eKCDd): aimed at an advanced audience [7 - 8 min]
 
 ### Podcasts aimed at a native audience
 
