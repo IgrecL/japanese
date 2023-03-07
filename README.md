@@ -1,7 +1,6 @@
 # Japanese Learning Resources
 
 Immersion is key and you can make it really efficient with the following tools and resources.<br>
-[Here](https://github.com/IgrecL/japanese/blob/main/Ranking.md) is a list of the specific works I read/watched/played, ranked by how hard they are to understand.<br>
 
 ## Table of contents
 
