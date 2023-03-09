@@ -51,6 +51,7 @@ More specific categories will be details later, but you can find most of what yo
 
 * [Itazuraneko](https://itazuraneko.neocities.org/library/librarymain.html): richest source of immersion material (not updated anymore :/)
 * [Nyaa](https://nyaa.si/): biggest torrent site for anime, manga, light novels and dramas
+* [J-Drama](https://drive.google.com/drive/u/0/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE): Google drive with 150 Japanase dramas
 
 ### Kanji & learning
 
@@ -78,6 +79,7 @@ Buying a physical Japanese dictionary isn't really necessary; a lot of great dic
 * [日仏辞典](https://www.dictionnaire-japonais.com/): Japanese-French dictionary
 * [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto): Android Japanese dictionary
 * [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/search/): pitch accent dictionary (advanced)
+* [Massif](https://massif.la/ja): example sentences from word
 
 ### Monolingual transition
 
@@ -133,6 +135,7 @@ I recommend having an English translation of the book you're reading, alongside 
 * [Itazuraneko Books](https://itazuraneko.neocities.org/library/shousetu.html): all kinds of Japanese books (even more than Aozora Bunko)
 * [Z-Lib](https://z-lib.org/): biggest online library (not only Japanese)
 * [Imperial Library](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/): if Z-Lib is down [tor]
+* [Sōseki Project](https://www.sosekiproject.org/iamacat/iamacat01.html): Natsume Sōseki novels cut in blocks, with word definitions and audio 
 
 If you want to read books on an **e-reader** such as Kobo, you can add this custom html dictionary created from JMdict: [Kobo Dictionary](https://perm.cessen.com/2022/kobo_dictionary/)<br>
 Note that you need to be comfortable with reading Japanese without a dictionary if you want to read on an e-reader: looking up words takes a lot more time than on PC, and you won't be able to create Anki cards.
