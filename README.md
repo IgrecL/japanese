@@ -66,6 +66,7 @@ Different learning approaches exist, and all of them have their drawbacks. My ta
 Even more important than learning kanji is understanding how Japanese is structured. Famous Japanese grammar books aimed at foreigners (Minna no Nihongo, Genki, etc.) teach Japanese grammar in a weird order in my opinion. I would say that learning grammar combining different guides is the best way to understand it completely (and of course immersion).
 
 * [Tae Kim's Guide](https://guidetojapanese.org/learn/grammar): highly regarded free guide
+* [Bunpro](https://bunpro.jp/): SRS system with all grammar points of JLPT N5-N1 to learn everyay (I personnaly use this)
 * [Minna no Nihongo](https://learnjapaneseaz.com/vocabulary-for-minna-no-nihongo-1.html): book often used in Japanese class all around the world
 * [GENKI](https://genki3.japantimes.co.jp/en/): another famous grammar book
 
@@ -125,6 +126,7 @@ Manga can be hard to read at first, because sentences are short and sometime use
 
 * [Itazuraneko Manga](https://itazuraneko.neocities.org/library/manga.html): a lot of raw manga
 * [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi): you can bulk download Japanese manga through Tachiyomi and export them to your computer afterwards
+* [Manga Reader](https://mangareader.to/): lots of scans in English AND Japanese (and sometimes French)
 
 ### Books
 
@@ -133,8 +135,7 @@ I recommend having an English translation of the book you're reading, alongside 
 
 * [Aozora Bunko](https://mega.nz/file/QIgWWLZI#HA5saYu51Gu6h23VLbysIMJ9Lms-RV5EIa19Q8kXApU): ~15,000 royalty-free Aozora Bunko books
 * [Itazuraneko Books](https://itazuraneko.neocities.org/library/shousetu.html): all kinds of Japanese books (even more than Aozora Bunko)
-* [Z-Lib](https://z-lib.org/): biggest online library (not only Japanese)
-* [Imperial Library](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/): if Z-Lib is down [tor]
+* [Z-Library](https://en.wikipedia.org/wiki/Z-Library): biggest online library (not only Japanese) [Tor]
 * [Sōseki Project](https://www.sosekiproject.org/iamacat/iamacat01.html): Natsume Sōseki novels cut in blocks, with word definitions and audio 
 
 If you want to read books on an **e-reader** such as Kobo, you can add this custom html dictionary created from JMdict: [Kobo Dictionary](https://perm.cessen.com/2022/kobo_dictionary/)<br>
@@ -176,7 +177,7 @@ Use this only if you already have a good understanding of spoken Japanese.
 
 AJATTers like to listen again to what they already watched, so they created tools to cut the silences in a video and output an audio file with only the spoken lines. The goal of condensed audios is to optimize immersion time, by listening to them when you're commuting or doing something else.
 
-However, a lot of subtitles in Japanese media are used to describe background sounds or people screaming (like ああ or （大きい物音ー）), so I made another script to clean .srt files, which reduces the audio file by another 3-5 minutes most of the time.
+However, a lot of subtitles in Japanese media are used to describe background sounds or people screaming (like ああ or （大きい物音ー）), so I made another script to clean .srt files, which reduces the audio file by another 3-5 minutes most of the time. I don't use that anymore but yeah.
 
 * [impd](https://github.com/Ajatt-Tools/impd): a script that generates audio files containing only the lines
 * [subcleaner](https://github.com/IgrecL/SubCleaner): a Python script I made to clean .srt files for condensed audios
@@ -186,6 +187,7 @@ However, a lot of subtitles in Japanese media are used to describe background so
 I personally never use streaming websites for learning. Downloading what you consume makes learning easier, as you can use all kinds of tools that only work on files on your computer. However, I used to do so at first, so here are the best ones I found for anime:
 
 * [Animelon](https://animelon.com/): Japanese and English subtitles available
+* [Anisub.tv](https://anisub.tv/): Japanese subs
 * [Zoro.to](https://zoro.to/): you can turn off the English subtitles, but no Japanese subs
 
 I rarely watch TV online but there are lots of way to do it:
@@ -220,15 +222,15 @@ There aren't any tools like Mokuro or Mpvacious for games (of course), but it do
 Reading VN is a good way to learn Japanese because they use natural spoken Japanese, in contrast to what you can find in books, and you can rely on the pictures to understand what is going on. In some VNs like Higurashi no Naku Koro ni, there even are audio lines that help you even more.
 
 * [Textractor](https://github.com/Artikash/Textractor/releases): crazy tool which hooks on a function in a VN to output the text written in the game and pastes it in your clipboard so that you can use Yomichan/Anki
-* [VNs on Arch](https://wiki.archlinux.org/title/List_of_games#Visual_novels): honestly it's easier on Windows this time
 
 
 ## Miscellaneous
 
 ### Statistics
 
-* [jpdb.io](https://jpdb.io/): gives an estimation of the level needed to read/watch given works
-* [Jo Mako's Japanese](https://docs.google.com/spreadsheets/u/0/d/1ukDIWSkh_xvpppPbgs1nUR2kaEwFaWlsJgZUlb9LuTs/htmlview#): same
+* [Learn Natively](https://learnnatively.com/): site like AniList to track your immersion and have a community-based estimation of the difficulty of lots of Japanese works
+* [jpdb.io](https://jpdb.io/): gives an estimation of the level needed to read/watch given works, but not community-based
+* [Jo Mako's Japanese](https://docs.google.com/spreadsheets/u/0/d/1ukDIWSkh_xvpppPbgs1nUR2kaEwFaWlsJgZUlb9LuTs/htmlview#): same but by some guy
 * [Kanji Frequency](https://scriptin.github.io/kanji-frequency/): kanji usage frequency
 * [On'yomi Frequency](http://funbit.info/kanji/readings/on_table_by_freq.html): on'yomi ordered by frequency among tōyō kanji
 * [Aozora Bunko stats](https://core6000.neocities.org/aozora/): number of kanji needed to read Aozora Bunko novels
@@ -245,7 +247,7 @@ According to [this study](https://scriptin.github.io/kanji-frequency/), knowing 
 
 ### Level Check
 
-* [MLC Kanji Level Check](https://www.mlcjapanese.co.jp/level_check_kanji.html): estimaes your jōyō kanji knowledge
+* [MLC Kanji Level Check](https://www.mlcjapanese.co.jp/level_check_kanji.html): estimates your jōyō kanji knowledge
 * [JLPTCheck Quiz](https://www.jlptcheck.com/): estimates your JLPT level
 
 ### Other useful guides
